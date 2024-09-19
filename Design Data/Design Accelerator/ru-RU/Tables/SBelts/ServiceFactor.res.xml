@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Эксплуатационный коэффициент"/>
+  <string id="%2%" value="Пониженная нагрузка"/>
+  <string id="%3%" value="Равномерная нагрузка"/>
+  <string id="%4%" value="Маленькая ударная нагрузка"/>
+  <string id="%5%" value="Средняя ударная нагрузка"/>
+  <string id="%6%" value="Большая ударная нагрузка"/>
+  <string id="%7%" value="Повторно-кратковременный режим"/>
+  <string id="%8%" value="Кратковременный режим"/>
+  <string id="%9%" value="Непрерывный режим"/>
+  <string id="%10%" value="3-8 часов ежедневно"/>
+  <string id="%11%" value="8-16 часов ежедневно"/>
+  <string id="%12%" value="16-24 часов ежедневно"/>
+  <string id="%13%" value="Привод R"/>
+  <string id="%14%" value="Привод N"/>
+  <string id="%15%" value="Равномерный крутящий момент"/>
+  <string id="%16%" value="Большой/неравномерный крутящий момент"/>
+</Resources>

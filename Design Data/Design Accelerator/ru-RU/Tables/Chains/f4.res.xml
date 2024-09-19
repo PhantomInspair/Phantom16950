@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Коэффициент смазки"/>
+  <string id="%2%" value="Скорости цепи"/>
+  <string id="%3%" value="Метод смазки"/>
+  <string id="%4%" value="Рекомендуемая смазка"/>
+  <string id="%5%" value="Допустимая смазка"/>
+  <string id="%6%" value="Верно"/>
+  <string id="%7%" value="Недостаточно"/>
+  <string id="%8%" value="Нет смазки"/>
+  <string id="%9%" value="Чисто"/>
+  <string id="%10%" value="Загрязнения"/>
+  <string id="%11%" value="До 4 м/с"/>
+  <string id="%12%" value="До 7 м/с"/>
+  <string id="%13%" value="До 12 м/с"/>
+  <string id="%14%" value="Выше 12 м/с"/>
+  <string id="%15%" value="Через капельницу"/>
+  <string id="%16%" value="Вручную"/>
+  <string id="%17%" value="Недопустимо"/>
+  <string id="%18%" value="Масляная ванна или диск"/>
+  <string id="%19%" value="Через капельницу"/>
+  <string id="%20%" value="Принудительная смазка"/>
+  <string id="%21%" value="Масляный туман, принудительная смазка"/>
+v</Resources>

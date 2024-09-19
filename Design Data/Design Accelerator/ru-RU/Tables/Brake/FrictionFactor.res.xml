@@ -1,0 +1,11 @@
+<Resources>
+  <string id="%1%" value="Коэффициент трения"/>
+  <string id="%2%" value="Материал"/>
+  <string id="%3%" value="f"/>
+  <string id="%4%" value="Литье"/>
+  <string id="%5%" value="Ткань"/>
+  <string id="%6%" value="Металлокерамика"/>
+  <string id="%7%" value="Пробка"/>
+  <string id="%8%" value="Дерево"/>
+  <string id="%9%" value="Чугун, сталь"/>
+</Resources>

@@ -1,0 +1,11 @@
+<Resources>
+  <string id="%1%" value="Основной материал"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Допустимое давление"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Литая сталь"/>
+  <string id="%6%" value="Кованая сталь"/>
+  <string id="%7%" value="Ковкая сталь"/>
+  <string id="%8%" value="Материал"/>
+  <string id="%9%" value="||s||.al|"/>
+</Resources>

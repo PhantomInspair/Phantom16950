@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="DIN 5480 - типы фрез"/>
+  <string id="%2%" value="Тип"/>
+  <string id="%3%" value="Обработка торцов"/>
+  <string id="%4%" value="h|.aP0|"/>
+  <string id="%5%" value="Коэффициент высоты головки зуба"/>  
+  <string id="%6%" value="бр"/>
+  <string id="%7%" value="Вальцованный"/>
+  <string id="%8%" value="Прокол"/>  
+  <string id="%9%" value="Обтесанный"/> 
+  <string id="%10%" value="Измельченный"/>   
+  <string id="%11%" value="c|.FP0|"/>  
+  <string id="%12%" value="Коэффициент"/>      
+</Resources>

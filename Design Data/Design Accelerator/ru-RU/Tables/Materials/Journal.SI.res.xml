@@ -1,0 +1,12 @@
+<Resources>
+  <string id="%1%" value="Материал цапфы"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Допустимое давление"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Конструкционная сталь"/>
+  <string id="%6%" value="Высокосортная/легированая сталь"/>
+  <string id="%7%" value="Литая сталь"/>
+  <string id="%8%" value="Серый чугун"/>
+  <string id="%9%" value="Материал"/>
+  <string id="%10%" value="||s||.al|"/>
+</Resources>

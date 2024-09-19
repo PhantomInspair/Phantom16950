@@ -1,0 +1,16 @@
+<Resources>
+  <string id="%1%" value="Номинальный диаметр"/>
+  <string id="%2%" value="Малый зазор"/>
+  <string id="%3%" value="Нормальный зазор"/>
+  <string id="%4%" value="Свободный зазор"/>
+  <string id="%5%" value="Диаметр головки"/>
+  <string id="%6%" value="Глубина цековки"/>
+  <string id="%7%" value="Угол зенковки"/>
+  <string id="%8%" value="Высверленное отверстие (JIS)"/>
+  <string id="%9%" value="Винт с плоской потайной головкой (JIS)"/>
+  <string id="%10%" value="Винт с полупотайной головкой (JIS)"/>
+  <string id="%11%" value="Винт с шестигранной головкой (JIS)"/>
+  <string id="%12%" value="Болт с шестигранной головкой (JIS)"/>
+  <string id="%13%" value="Винт с шестигранной головкой (JIS)"/>
+  <string id="%14%" value="Винт с шестигранным углублением в головке (JIS)"/>
+</Resources>

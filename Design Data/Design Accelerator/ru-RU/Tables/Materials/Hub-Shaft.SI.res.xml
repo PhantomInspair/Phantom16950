@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="Материал соединительных элементов"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Допустимое давление"/>
+  <string id="%4%" value="пси"/>
+  <string id="%5%" value="Сорт стали 37; 42; 4D"/>
+  <string id="%6%" value="Высокосортная/легированая сталь"/>
+  <string id="%7%" value="Литая сталь"/>
+  <string id="%8%" value="Серый чугун"/>
+  <string id="%9%" value="Бронза"/>
+  <string id="%10%" value="Материал"/>
+  <string id="%11%" value="||s||.Al|"/>
+</Resources>

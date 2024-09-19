@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="Материал соединения"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Предел прочности соединения при растяжении"/>
+  <string id="%4%" value="пси"/>
+  <string id="%5%" value="Предел прочности соединения при сдвиге"/>
+  <string id="%6%" value="Оловянная пайка"/>
+  <string id="%7%" value="Медная пайка"/>
+  <string id="%8%" value="Серебряная пайка"/>
+  <string id="%9%" value="Материал"/>
+  <string id="%10%" value="||s||.Al|"/>
+  <string id="%11%" value="||t||.Al|"/>
+</Resources>

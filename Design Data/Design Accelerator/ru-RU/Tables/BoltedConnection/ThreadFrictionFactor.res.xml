@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="Коэффициент трения резьбы"/>
+  <string id="%2%" value="Поверхность резьбы"/>
+  <string id="%3%" value="Несмазанный"/>
+  <string id="%4%" value="Смазанный"/>
+  <string id="%5%" value="черное или фосфатное покрытие"/>
+  <string id="%6%" value="покрытие из гальванического цинка"/>
+  <string id="%7%" value="кадмиевая листовая обшивка"/>
+</Resources>

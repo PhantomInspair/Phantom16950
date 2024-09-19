@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Эксплуатационный коэффициент"/>
+  <string id="%2%" value="Характеристики приводных машин"/>
+  <string id="%3%" value="Характеристики приводных машин"/>
+  <string id="%4%" value="Плавный ход"/>
+  <string id="%5%" value="Низкая ударная нагрузка"/>
+  <string id="%6%" value="Средняя ударная нагрузка"/>
+  <string id="%7%" value="Высокая ударная нагрузка"/>
+  <string id="%8%" value="Коэффициент ударной нагрузки"/>
+</Resources>

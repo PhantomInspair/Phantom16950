@@ -1,0 +1,8 @@
+<Resources>
+  <string id="%1%" value="Коэффициент надежности"/>
+  <string id="%2%" value="99,99% надежности"/>
+  <string id="%3%" value="99,9% надежности"/>
+  <string id="%4%" value="99% надежности"/>
+  <string id="%5%" value="90% надежности"/>
+  <string id="%6%" value="50% надежности"/>
+</Resources>

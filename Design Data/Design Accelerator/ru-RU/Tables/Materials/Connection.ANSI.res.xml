@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Материал шлица"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Число твердости по Бринеллю"/>
+  <string id="%4%" value="бр"/>
+  <string id="%5%" value="Число твердости по Виккерсу (пирамида)"/>
+  <string id="%6%" value="Допустимое напряжение при сжатии"/>
+  <string id="%7%" value="пси"/>
+  <string id="%8%" value="Допустимое напряжение среза"/>
+  <string id="%9%" value="Cталь"/>
+  <string id="%10%" value="Поверхностно упрочняемая сталь"/>
+  <string id="%11%" value="Цементированная сталь"/>
+  <string id="%12%" value="Материал"/>
+  <string id="%13%" value="B|.hn|"/>
+  <string id="%14%" value="HV"/>
+  <string id="%15%" value="S|.c|"/>
+  <string id="%16%" value="S|.s|"/>
+  <string id="%17%" value="Допустимое напряжение при растяжении"/>
+  <string id="%18%" value="S|.t|"/>
+</Resources>

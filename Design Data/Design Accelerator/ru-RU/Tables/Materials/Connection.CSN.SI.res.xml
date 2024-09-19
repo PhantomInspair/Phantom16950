@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="Материал шлица"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Допустимый предел прочности при растяжении"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Закаленная сталь"/>
+  <string id="%6%" value="Материал"/>
+  <string id="%7%" value="S|.u|"/>
+  <string id="%8%" value="Прочность"/>
+  <string id="%9%" value="HRC"/>
+  <string id="%10%" value="Прочность сторон зуба"/>
+  <string id="%11%" value="бр"/>
+</Resources>

@@ -1,0 +1,21 @@
+<Resources>
+  <string id="%1%" value="Материал соединения"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Допустимое давление (статическая нагрузка)"/>
+  <string id="%4%" value="пси"/>
+  <string id="%5%" value="Модуль упругости"/>
+  <string id="%6%" value="Сорт стали 37; 42"/>
+  <string id="%7%" value="Сорт стали 50"/>
+  <string id="%8%" value="Сорт стали 60"/>
+  <string id="%9%" value="Сорт стали 70"/>
+  <string id="%10%" value="Литая сталь"/>
+  <string id="%11%" value="Серый чугун"/>
+  <string id="%12%" value="Бронза"/>
+  <string id="%13%" value="Материал"/>
+  <string id="%14%" value="||s||.A1|"/>
+  <string id="%15%" value="E"/>
+  <string id="%16%" value="Допустимое давление (циклическая нагрузка)"/>
+  <string id="%17%" value="Допустимое давление (переменная нагрузка)"/>
+  <string id="%18%" value="||s||.A2|"/>
+  <string id="%19%" value="||s||.A3|"/>
+</Resources>

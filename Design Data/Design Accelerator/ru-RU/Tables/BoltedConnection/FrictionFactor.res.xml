@@ -1,0 +1,17 @@
+<Resources>
+  <string id="%1%" value="Коэффициент трения"/>
+  <string id="%2%" value="Материал"/>
+  <string id="%3%" value="Несмазанный"/>
+  <string id="%4%" value="Смазанный"/>
+  <string id="%5%" value="сталь - сталь"/>
+  <string id="%6%" value="сталь - чугун"/>
+  <string id="%7%" value="сталь - латунь"/>
+  <string id="%8%" value="сталь - латунь"/>
+  <string id="%9%" value="чугун - чугун"/>
+  <string id="%10%" value="чугун - бронза"/>
+  <string id="%11%" value="бронза - бронза"/>
+  <string id="%12%" value="алюминий - алюминий"/>
+  <string id="%13%" value="медь - медь"/>
+  <string id="%14%" value="сталь - плексиглас"/>
+  <string id="%15%" value="плексиглас - плексиглас"/>
+</Resources>

@@ -1,0 +1,79 @@
+<Resources>
+  <string id="%1%" value="Материалы для червячной передачи"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Термообработка"/>
+  <string id="%4%" value="Предел прочности растяжения"/>
+  <string id="%5%" value="пси"/>
+  <string id="%6%" value="Предел текучести"/>
+  <string id="%7%" value="Контактная усталостная прочность"/>
+  <string id="%8%" value="Предел усталостной прочности изгиба"/>
+  <string id="%9%" value="Модуль упругости"/>
+  <string id="%10%" value="Коэффициент Пуассона"/>
+  <string id="%11%" value="Макс. скорость скольжения"/>
+  <string id="%12%" value="фут/с"/>
+  <string id="%13%" value="Описание"/>
+  <string id="%14%" value="серый чугун"/>
+  <string id="%15%" value="в песч. форму"/>
+  <string id="%16%" value="латунь CuZn35Pb1"/>
+  <string id="%17%" value="латунь CuZn35AlFe3"/>
+  <string id="%18%" value="под давлением"/>
+  <string id="%19%" value="центробежное литье"/>
+  <string id="%20%" value="алюминий-бронза CuAl9Fe3"/>
+  <string id="%21%" value="алюминий-бронза CuAl10Fe4Ni"/>
+  <string id="%22%" value="tin bronze CuSn5Zn5Pb5"/>
+  <string id="%23%" value="tin bronze CuSn8Zn6Pb3"/>
+  <string id="%24%" value="tin bronze CuSn10Ni1P1"/>
+  <string id="%25%" value="tin bronze CuSn12"/>
+  <string id="%26%" value="tin bronze CuSn10P1"/>
+  <string id="%27%" value="Стандарт"/>
+  <string id="%28%" value="Стандарт"/>
+  <string id="%29%" value="ANSI"/>
+  <string id="%30%" value="ISO"/>
+  <string id="%31%" value="DIN"/>
+  <string id="%32%" value="BS"/>
+  <string id="%33%" value="CSN"/>
+  <string id="%34%" value="ГОСТ"/>
+  <string id="%35%" value="NF"/>
+  <string id="%36%" value="JIS"/>
+  <string id="%37%" value="Материал"/>
+  <string id="%38%" value="Термообработка"/>
+  <string id="%39%" value="R|.m|"/>
+  <string id="%40%" value="R|.e|/R|.p02|"/>
+  <string id="%41%" value="K|.w|"/>
+  <string id="%42%" value="S|.n|"/>
+  <string id="%43%" value="E"/>
+  <string id="%44%" value="||m|"/>
+  <string id="%45%" value="макс. с."/>
+  <string id="%46%" value="Наименование"/>
+  <string id="%47%" value="DIN GG - 15"/>
+  <string id="%48%" value="DIN GG - 20"/>
+  <string id="%49%" value="DIN GG - 25"/>
+  <string id="%50%" value="DIN GG - 30"/>
+  <string id="%51%" value="CSN 422415"/>
+  <string id="%52%" value="CSN 422420"/>
+  <string id="%53%" value="CSN 422425"/>
+  <string id="%54%" value="CSN 422430"/>
+  <string id="%55%" value="CSN 423313"/>
+  <string id="%56%" value="CSN 423311"/>
+  <string id="%57%" value="CSN 423145"/>
+  <string id="%58%" value="CSN 423147"/>
+  <string id="%59%" value="CSN 423135"/>
+  <string id="%60%" value="CSN 423137"/>
+  <string id="%61%" value="CSN 423123"/>
+  <string id="%62%" value="CSN 423120"/>
+  <string id="%63%" value="VHV"/>
+  <string id="%64%" value="Твердость в боковой части зуба"/>
+  <string id="%65%" value="s|.Hlim|"/>
+  <string id="%66%" value="Предел контактной усталости"/>
+  <string id="%67%" value="s|.Flim|"/>
+  <string id="%68%" value="Предел усталости при изгибе"/>
+  <string id="%69%" value="N|.Hlim|"/>
+  <string id="%70%" value="Основное количество циклов нагрузки при контакте"/>
+  <string id="%71%" value="N|.Flim|"/>
+  <string id="%72%" value="Основное количество циклов нагрузки при изгибе"/>
+  <string id="%73%" value="q|.H|"/>
+  <string id="%74%" value="Экспонента кривой Велера для контакта"/>
+  <string id="%75%" value="q|.F|"/>
+  <string id="%76%" value="Экспонента кривой Велера для изгиба"/>
+  <string id="%77%" value="бр"/>
+</Resources>

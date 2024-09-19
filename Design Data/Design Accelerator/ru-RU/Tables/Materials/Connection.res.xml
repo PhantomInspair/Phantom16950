@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Материал"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Предел прочности при растяжении"/>
+  <string id="%4%" value="пси"/>
+  <string id="%5%" value="Допустимое давление"/>
+  <string id="%6%" value="Допустимое напряжение среза"/>
+  <string id="%7%" value="Конструкционная сталь"/>
+  <string id="%8%" value="Углеродистая сталь"/>
+  <string id="%9%" value="Рафинированная и легированная сталь"/>
+  <string id="%10%" value="Поверхностно-упрочняемая сталь"/>
+  <string id="%11%" value="Цементированная сталь"/>
+  <string id="%12%" value="Чугун с чешуйчатым графитом"/>
+  <string id="%13%" value="Чугун со сферическим графитом"/>
+  <string id="%14%" value="Алюминиевый сплав"/>
+  <string id="%15%" value="Материал"/>
+  <string id="%16%" value="S|.ult|"/>
+  <string id="%17%" value="p|.A|"/>
+  <string id="%18%" value="||t||.Al|"/>
+</Resources>

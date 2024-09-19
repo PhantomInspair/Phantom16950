@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="Зажимной коэффициент"/>
+  <string id="%2%" value="Соединение под давлением"/>
+  <string id="%3%" value="Смазка"/>
+  <string id="%4%" value="Зажимной коэффициент для"/>
+  <string id="%5%" value="Размыкание"/>
+  <string id="%6%" value="Сдвиг"/>
+  <string id="%7%" value="По окружности"/>
+  <string id="%8%" value="Продольный"/>
+  <string id="%9%" value="Сокращение"/>
+  <string id="%10%" value="Смазанный"/>
+  <string id="%11%" value="Несмазанный"/>
+  <string id="%12%" value="Сжатие"/>
+</Resources>

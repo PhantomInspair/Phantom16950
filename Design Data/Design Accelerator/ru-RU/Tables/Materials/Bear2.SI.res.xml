@@ -1,0 +1,19 @@
+<Resources>
+  <string id="%1%" value="Материал цапфы"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Модуль упругости"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Коэффициент Пуассона"/>
+  <string id="%6%" value="Коэффициент теплового расширения"/>
+  <string id="%7%" value="Низкоуглеродистая сталь"/>
+  <string id="%8%" value="Серый чугун"/>
+  <string id="%9%" value="Алюминиевые сплавы"/>
+  <string id="%10%" value="Магниевые сплавы"/>
+  <string id="%11%" value="Оловянистая бронза"/>
+  <string id="%12%" value="Алюминиевая бронза"/>
+  <string id="%13%" value="Латунь"/>
+  <string id="%14%" value="Материал"/>
+  <string id="%15%" value="E"/>
+  <string id="%16%" value="||m|"/>
+  <string id="%17%" value="CoeffT"/>
+</Resources>

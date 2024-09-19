@@ -1,0 +1,216 @@
+<Resources>
+	<string id="%1%" value="Материал соединения"/>
+	<string id="%2%" value="Обозначение материала"/>
+	<string id="%3%" value="Предел текучести"/>
+	<string id="%4%" value="MPa"/>
+	<string id="%5%" value="Предел прочности растяжения"/>
+	<string id="%6%" value="Допустимые пределы прочности растяжения"/>
+	<string id="%7%" value="Тип материала"/>
+	<string id="%8%" value="Конструкционная сталь A283 - класс C"/>
+	<string id="%9%" value="Основной материал"/>
+	<string id="%10%" value="Конструкционная сталь A519-1020"/>
+	<string id="%11%" value="Конструкционная сталь A519-1035"/>
+	<string id="%12%" value="Конструкционная сталь A572 - класс 42"/>
+	<string id="%13%" value="Конструкционная сталь A572 - класс 50"/>
+	<string id="%14%" value="Конструкционная сталь A519-1050"/>
+	<string id="%15%" value="Конструкционная сталь A512-MT1010SR"/>
+	<string id="%16%" value="Электрод E60XX"/>
+	<string id="%17%" value="Материал сварки"/>
+	<string id="%18%" value="Электрод E70XX"/>
+	<string id="%19%" value="Электрод E80XX"/>
+	<string id="%20%" value="Электрод E90XX"/>
+	<string id="%21%" value="Электрод E100XX"/>
+	<string id="%22%" value="Электрод E120XX"/>
+	<string id="%23%" value="Стандарт"/>
+	<string id="%24%" value="Стандарт"/>
+	<string id="%25%" value="ANSI"/>
+	<string id="%26%" value="ISO"/>
+	<string id="%27%" value="DIN"/>
+	<string id="%28%" value="BS"/>
+	<string id="%29%" value="CSN"/>
+	<string id="%30%" value="NF"/>
+	<string id="%31%" value="JIS"/>
+	<string id="%32%" value="Материал"/>
+	<string id="%33%" value="S|.y|"/>
+	<string id="%34%" value="S|.ult|"/>
+	<string id="%35%" value="S|.ult min| - S|.ult max|"/>
+	<string id="%36%" value="Тип"/>
+	<string id="%37%" value="Конструкционная сталь S235JRG1"/>
+	<string id="%38%" value="Конструкционная сталь S235JRH"/>
+	<string id="%39%" value="Конструкционная сталь S235JRG21"/>
+	<string id="%40%" value="Конструкционная сталь S235J0"/>
+	<string id="%41%" value="Конструкционная сталь SPT360"/>
+	<string id="%42%" value="Конструкционная сталь SPT410"/>
+	<string id="%43%" value="Конструкционная сталь S275J2G3"/>
+	<string id="%44%" value="Конструкционная сталь S275J2HG3"/>
+	<string id="%45%" value="Конструкционная сталь S355J2G3"/>
+	<string id="%46%" value="Конструкционная сталь S355J2H"/>
+	<string id="%47%" value="Конструкционная сталь S355J0"/>
+	<string id="%48%" value="Конструкционная сталь S355J0H"/>
+	<string id="%49%" value="Конструкционная сталь SPT510"/>
+	<string id="%50%" value="Конструкционная сталь USt34-2"/>
+	<string id="%51%" value="Конструкционная сталь USt37-2"/>
+	<string id="%52%" value="Конструкционная сталь St37-2"/>
+	<string id="%53%" value="Конструкционная сталь Rst37-2"/>
+	<string id="%54%" value="Конструкционная сталь St37-3"/>
+	<string id="%55%" value="Конструкционная сталь St44-3"/>
+	<string id="%56%" value="Конструкционная сталь St44.0"/>
+	<string id="%57%" value="Конструкционная сталь St34-2BK"/>
+	<string id="%58%" value="Конструкционная сталь St52-3"/>
+	<string id="%59%" value="Конструкционная сталь St52.0"/>
+	<string id="%60%" value="Конструкционная сталь St37-2BK"/>
+	<string id="%61%" value="Конструкционная сталь St52-3BK"/>
+	<string id="%62%" value="Электрод E43XX"/>
+	<string id="%63%" value="Электрод E51XX"/>
+	<string id="%64%" value="Конструкционная сталь CFS3NBK"/>
+	<string id="%65%" value="Конструкционная сталь 40A"/>
+	<string id="%66%" value="Конструкционная сталь 40B"/>
+	<string id="%67%" value="Конструкционная сталь 40C"/>
+	<string id="%68%" value="Конструкционная сталь 43D"/>
+	<string id="%69%" value="Конструкционная сталь CFS6NBK"/>
+	<string id="%70%" value="Конструкционная сталь CFS8NBK"/>
+	<string id="%71%" value="Конструкционная сталь CEW2BK"/>
+	<string id="%72%" value="Конструкционная сталь 50D"/>
+	<string id="%73%" value="Конструкционная сталь 50C"/>
+	<string id="%74%" value="Конструкционная сталь CEW3BK"/>
+	<string id="%75%" value="Конструкционная сталь CEW5BK"/>
+	<string id="%76%" value="Конструкционная сталь 11343"/>
+	<string id="%77%" value="Конструкционная сталь 11353"/>
+	<string id="%78%" value="Конструкционная сталь 11366"/>
+	<string id="%79%" value="Конструкционная сталь 11368"/>
+	<string id="%80%" value="Конструкционная сталь 11369"/>
+	<string id="%81%" value="Конструкционная сталь 11373"/>
+	<string id="%82%" value="Конструкционная сталь 11375"/>
+	<string id="%83%" value="Конструкционная сталь 11378"/>
+	<string id="%84%" value="Конструкционная сталь 11416"/>
+	<string id="%85%" value="Конструкционная сталь 11418"/>
+	<string id="%86%" value="Конструкционная сталь 11419"/>
+	<string id="%87%" value="Конструкционная сталь 11425"/>
+	<string id="%88%" value="Электрод 11366"/>
+	<string id="%89%" value="Конструкционная сталь A34-2"/>
+	<string id="%90%" value="Конструкционная сталь E24-2"/>
+	<string id="%91%" value="Конструкционная сталь E24-3"/>
+	<string id="%92%" value="Конструкционная сталь E28-4"/>
+	<string id="%93%" value="Конструкционная сталь E36-3"/>
+	<string id="%94%" value="Конструкционная сталь E36-4"/>
+	<string id="%95%" value="Конструкционная сталь STKM12A"/>
+	<string id="%96%" value="Конструкционная сталь SS330"/>
+	<string id="%97%" value="Конструкционная сталь STKM13B"/>
+	<string id="%98%" value="Конструкционная сталь STKM16A"/>
+	<string id="%99%" value="Конструкционная сталь SM520C"/>
+	<string id="%100%" value="Конструкционная сталь SM520B"/>
+	<string id="%101%" value="Конструкционная сталь STKM12C"/>
+	<string id="%102%" value="Конструкционная сталь STKM16C"/>
+	<string id="%103%" value="Электрод D43XX"/>
+	<string id="%104%" value="Электрод D50XX"/>
+	<string id="%105%" value="Конструкционная сталь A36"/>
+	<string id="%106%" value="Сталь Ст0 ГОСТ 380-94"/>
+	<string id="%107%" value="Сталь Ст1кп ГОСТ 380-94"/>
+	<string id="%108%" value="Сталь Ст1пс ГОСТ 380-94"/>
+	<string id="%109%" value="Сталь Ст1сп ГОСТ 380-94"/>
+	<string id="%110%" value="Сталь Ст2кп ГОСТ 380-94"/>
+	<string id="%111%" value="Сталь Ст2пс ГОСТ 380-94"/>
+	<string id="%112%" value="Сталь Ст2сп ГОСТ 380-94"/>
+	<string id="%113%" value="Сталь Ст3кп ГОСТ 380-94"/>
+	<string id="%114%" value="Сталь Ст3пс ГОСТ 380-94"/>
+	<string id="%115%" value="Сталь Ст3сп ГОСТ 380-94"/>
+	<string id="%116%" value="Сталь Ст3Гпс ГОСТ 380-94"/>
+	<string id="%117%" value="Сталь Ст3Гсп ГОСТ 380-94"/>
+	<string id="%118%" value="Сталь Ст4кп ГОСТ 380-94"/>
+	<string id="%119%" value="Сталь Ст4пс ГОСТ 380-94"/>
+	<string id="%120%" value="Сталь Ст4сп ГОСТ 380-94"/>
+	<string id="%121%" value="Сталь Ст5пс ГОСТ 380-94"/>
+	<string id="%122%" value="Сталь Ст5сп ГОСТ 380-94"/>
+	<string id="%123%" value="Сталь Ст5Гсп ГОСТ 380-94"/>
+	<string id="%124%" value="Сталь Ст6пс ГОСТ 380-94"/>
+	<string id="%125%" value="Сталь Ст6сп ГОСТ 380-94"/>
+	<string id="%126%" value="Сталь 08кп ГОСТ 1050-88"/>
+	<string id="%127%" value="Сталь 10 ГОСТ 1050-88"/>
+	<string id="%128%" value="Сталь 20 ГОСТ 1050-88"/>
+	<string id="%129%" value="Сталь 35 ГОСТ 1050-88"/>
+	<string id="%130%" value="Сталь 45 ГОСТ 1050-88"/>
+	<string id="%131%" value="Сталь литая 25Л ГОСТ 977-88"/>
+	<string id="%132%" value="Сталь литая 35Л ГОСТ 977-88"/>
+	<string id="%133%" value="Сталь 20Х ГОСТ 4543-71"/>
+	<string id="%134%" value="Сталь 40Х ГОСТ 4543-71"/>
+	<string id="%135%" value="Сталь 18ХГТ ГОСТ 4543-71"/>
+	<string id="%136%" value="Сталь 30ХГСА ГОСТ 4543-71"/>
+	<string id="%137%" value="Сталь 06Г2СЮ"/>
+	<string id="%138%" value="Сталь 06ХГСЮ"/>
+	<string id="%139%" value="Cталь 08Г2С"/>
+	<string id="%140%" value="Сталь 09Г2 ГОСТ 19281-89"/>
+	<string id="%141%" value="Сталь 09Г2Д ГОСТ 19281-89"/>
+	<string id="%142%" value="Сталь 09Г2С ГОСТ 19281-89"/>
+	<string id="%143%" value="Сталь 09Г2СД ГОСТ 19281-89"/>
+	<string id="%144%" value="Сталь 10Г2Б ГОСТ 19281-89"/>
+	<string id="%145%" value="Сталь 10Г2БД ГОСТ 19281-89"/>
+	<string id="%146%" value="Сталь 10Г2С1 ГОСТ 19281-89"/>
+	<string id="%147%" value="Сталь 10Г2С1Д ГОСТ 19281-89"/>
+	<string id="%148%" value="Сталь 10ГС2"/>
+	<string id="%149%" value="Сталь 10ГТ"/>
+	<string id="%150%" value="Сталь 10ХГСН1Д ГОСТ 19281-89"/>
+	<string id="%151%" value="Сталь 10ХНДП ГОСТ 19281-89"/>
+	<string id="%152%" value="Сталь 10ХСНД ГОСТ 19281-89"/>
+	<string id="%153%" value="Сталь 12Г2СМФ"/>
+	<string id="%154%" value="Сталь 12ГН2МФАЮ"/>
+	<string id="%155%" value="Сталь 12ГС ГОСТ 19281-89"/>
+	<string id="%156%" value="Сталь 12ХГ2МФБАЮ"/>
+	<string id="%157%" value="Сталь 14Г2 ГОСТ 19281"/>
+	<string id="%158%" value="Сталь 14Г2АФ ГОСТ 19281"/>
+	<string id="%159%" value="Сталь 14Г2АФД ГОСТ 19281"/>
+	<string id="%160%" value="Сталь 14ХГС ГОСТ 19281"/>
+	<string id="%161%" value="Сталь 15Г2АФД ГОСТ 19281-89"/>
+	<string id="%162%" value="Сталь 15Г2АФДПС"/>
+	<string id="%163%" value="Сталь 15Г2СФ ГОСТ 19281-89"/>
+	<string id="%164%" value="Сталь 15Г2СФД ГОСТ 19281-89"/>
+	<string id="%165%" value="Сталь 15ГС"/>
+	<string id="%166%" value="Сталь 15ГФ ГОСТ 19281-89"/>
+	<string id="%167%" value="Сталь 15ГФД ГОСТ 19281-89"/>
+	<string id="%168%" value="Сталь 15ХСНД ГОСТ 19281-89"/>
+	<string id="%169%" value="Сталь 16Г2АФ ГОСТ 19281-89"/>
+	<string id="%170%" value="Сталь 16Г2АФД ГОСТ 19281-89"/>
+	<string id="%171%" value="Сталь 16ГС ГОСТ 19281-89"/>
+	<string id="%172%" value="Сталь 16Д"/>
+	<string id="%173%" value="Сталь 17Г1С ГОСТ 19281-89"/>
+	<string id="%174%" value="Сталь 17ГС ГОСТ 19281-89"/>
+	<string id="%175%" value="Сталь 18Г2АФ ГОСТ 19281-89"/>
+	<string id="%176%" value="Сталь 18Г2АФД ГОСТ 19281-89"/>
+	<string id="%177%" value="Сталь 18Г2АФДпс"/>
+	<string id="%178%" value="Cталь 18Г2АФпс"/>
+	<string id="%179%" value="Сталь 18Г2С"/>
+	<string id="%180%" value="Сталь 1Х2М1"/>
+	<string id="%181%" value="Сталь 20ГС"/>
+	<string id="%182%" value="Сталь 20ГС2"/>
+	<string id="%183%" value="Сталь 20ХГ2С"/>
+	<string id="%184%" value="Сталь 23Х2Г2Т"/>
+	<string id="%185%" value="Сталь 25Г2С"/>
+	<string id="%186%" value="Сталь 25С2Р"/>
+	<string id="%187%" value="Сталь 28С"/>
+	<string id="%188%" value="Сталь 30ХС2"/>
+	<string id="%189%" value="Сталь 35ГС"/>
+	<string id="%190%" value="Сталь 80С"/>
+	<string id="%191%" value="Электрод Э38"/>
+	<string id="%192%" value="Электрод Э42"/>
+	<string id="%193%" value="Электрод Э46"/>
+	<string id="%194%" value="Электрод Э50"/>
+	<string id="%195%" value="Электрод Э42А"/>
+	<string id="%196%" value="Электрод Э46А"/>
+	<string id="%197%" value="Электрод Э50А"/>
+	<string id="%198%" value="Электрод Э55"/>
+	<string id="%199%" value="Электрод Э60"/>
+	<string id="%200%" value="Электрод Э70"/>
+	<string id="%201%" value="Электрод Э85"/>
+	<string id="%202%" value="Электрод Э100"/>
+	<string id="%203%" value="Электрод Э125"/>
+	<string id="%204%" value="Электрод Э150"/>
+	<string id="%205%" value="Электрод Э-09М"/>
+	<string id="%206%" value="Электрод Э-09МХ"/>
+	<string id="%207%" value="Электрод Э-09Х1М"/>
+	<string id="%208%" value="Электрод Э-05Х2М"/>
+	<string id="%209%" value="Электрод Э-09Х2М1"/>
+	<string id="%210%" value="Электрод Э-09Х1МФ"/>
+	<string id="%211%" value="Электрод Э-10Х1М1НФБ"/>
+	<string id="%212%" value="Электрод Э-10Х3М1БФ"/>
+	<string id="%213%" value="Электрод Э-10Х5МФ"/>
+	<string id="%214%" value="ГОСТ"/>
+</Resources>

@@ -1,0 +1,1477 @@
+<Resources>
+	<string id="%1%" value="Материалы (SI)"/>
+	<string id="%2%" value="Обозначение материала"/>
+	<string id="%3%" value="Термообработка"/>
+	<string id="%4%" value="Предел прочности растяжения"/>
+	<string id="%5%" value="MPa"/>
+	<string id="%6%" value="Предел текучести"/>
+	<string id="%7%" value="Тяговая мощность"/>
+	<string id="%8%" value="Число твердости по Бринеллю"/>
+	<string id="%9%" value="Максимально допустимое напряжение при сжатии (Герц)"/>
+	<string id="%10%" value="Модуль упругости"/>
+	<string id="%11%" value="Модуль сдвига"/>
+	<string id="%12%" value="Коэффициент Пуассона"/>
+	<string id="%13%" value="Плотность"/>
+	<string id="%14%" value="kg/m^3"/>
+	<string id="%15%" value="Описание"/>
+	<string id="%16%" value="Сталь SAE 1015"/>
+	<string id="%17%" value="после прокатки"/>
+	<string id="%18%" value="нормализованный"/>
+	<string id="%19%" value="отожженный"/>
+	<string id="%20%" value="Сталь SAE 1020"/>
+	<string id="%21%" value="науглероженный"/>
+	<string id="%22%" value="Сталь SAE 1022"/>
+	<string id="%23%" value="Сталь SAE 1030"/>
+	<string id="%24%" value="закаленная при 400 F"/>
+	<string id="%25%" value="Сталь SAE 1040"/>
+	<string id="%26%" value="Сталь SAE 1050"/>
+	<string id="%27%" value="закаленная при 600 F"/>
+	<string id="%28%" value="Сталь SAE 1060"/>
+	<string id="%29%" value="Сталь SAE 1080"/>
+	<string id="%30%" value="Сталь SAE 1095"/>
+	<string id="%31%" value="Сталь SAE 1117"/>
+	<string id="%32%" value="Сталь SAE 1118"/>
+	<string id="%33%" value="Сталь SAE 1137"/>
+	<string id="%34%" value="Сталь SAE 1141"/>
+	<string id="%35%" value="Сталь SAE 1144"/>
+	<string id="%36%" value="Сталь SAE 1340"/>
+	<string id="%37%" value="Сталь SAE 3140"/>
+	<string id="%38%" value="Сталь SAE 4037"/>
+	<string id="%39%" value="Сталь SAE 4042"/>
+	<string id="%40%" value="Сталь SAE 4130"/>
+	<string id="%41%" value="Сталь SAE 4140"/>
+	<string id="%42%" value="Сталь SAE 4150"/>
+	<string id="%43%" value="Сталь SAE 4320"/>
+	<string id="%44%" value="Сталь SAE 4340"/>
+	<string id="%45%" value="Сталь SAE 4620"/>
+	<string id="%46%" value="Сталь SAE 4820"/>
+	<string id="%47%" value="Сталь SAE 5046"/>
+	<string id="%48%" value="Сталь SAE 5130"/>
+	<string id="%49%" value="Сталь SAE 5140"/>
+	<string id="%50%" value="Сталь SAE 5150"/>
+	<string id="%51%" value="Сталь SAE 5160"/>
+	<string id="%52%" value="Сталь SAE 6150"/>
+	<string id="%53%" value="Сталь SAE 8620"/>
+	<string id="%54%" value="Сталь SAE 8630"/>
+	<string id="%55%" value="Сталь SAE 8640"/>
+	<string id="%56%" value="Сталь SAE 8650"/>
+	<string id="%57%" value="Сталь SAE 8660"/>
+	<string id="%58%" value="закаленная при 800 F"/>
+	<string id="%59%" value="Сталь SAE 8740"/>
+	<string id="%60%" value="Сталь SAE 9255"/>
+	<string id="%61%" value="Сталь SAE 9260"/>
+	<string id="%62%" value="Сталь SAE 9310"/>
+	<string id="%63%" value="Сталь SAE 30201"/>
+	<string id="%64%" value="нержавеющая"/>
+	<string id="%65%" value="твердость 1/4"/>
+	<string id="%66%" value="твердость 1/2"/>
+	<string id="%67%" value="твердость 3/4"/>
+	<string id="%68%" value="Максимальной твердости"/>
+	<string id="%69%" value="Сталь SAE 30202"/>
+	<string id="%70%" value="Сталь SAE 30301"/>
+	<string id="%71%" value="Сталь SAE 30302"/>
+	<string id="%72%" value="Сталь SAE 30302B"/>
+	<string id="%73%" value="Сталь SAE 30303"/>
+	<string id="%74%" value="Сталь SAE 30304"/>
+	<string id="%75%" value="Сталь SAE 30304L"/>
+	<string id="%76%" value="Сталь SAE 30305"/>
+	<string id="%77%" value="Сталь SAE 30308"/>
+	<string id="%78%" value="Сталь SAE 30309"/>
+	<string id="%79%" value="Сталь SAE 30310"/>
+	<string id="%80%" value="Сталь SAE 30314"/>
+	<string id="%81%" value="Сталь SAE 30316"/>
+	<string id="%82%" value="Сталь SAE 30316L"/>
+	<string id="%83%" value="Сталь SAE 30317"/>
+	<string id="%84%" value="Сталь SAE 30321"/>
+	<string id="%85%" value="Сталь SAE 30347"/>
+	<string id="%86%" value="Сталь SAE 30348"/>
+	<string id="%87%" value="Сталь SAE 51403"/>
+	<string id="%88%" value="Сталь SAE 51405"/>
+	<string id="%89%" value="Сталь SAE 51410"/>
+	<string id="%90%" value="Сталь SAE 51414"/>
+	<string id="%91%" value="Сталь SAE 51416"/>
+	<string id="%92%" value="Сталь SAE 51420"/>
+	<string id="%93%" value="Сталь SAE 51430"/>
+	<string id="%94%" value="Сталь SAE 51430F"/>
+	<string id="%95%" value="Сталь SAE 51431"/>
+	<string id="%96%" value="Сталь SAE 51440A"/>
+	<string id="%97%" value="Сталь SAE 51440C"/>
+	<string id="%98%" value="Сталь SAE 51446"/>
+	<string id="%99%" value="Сталь SAE 51501"/>
+	<string id="%100%" value="Сталь SAE 51502"/>
+	<string id="%101%" value="Серый чугун, класс 20"/>
+	<string id="%102%" value="Серый чугун, класс 25"/>
+	<string id="%103%" value="Серый чугун, класс 30"/>
+	<string id="%104%" value="Серый чугун, класс 35"/>
+	<string id="%105%" value="Серый чугун, класс 40"/>
+	<string id="%106%" value="Серый чугун, класс 50"/>
+	<string id="%107%" value="Серый чугун, класс 60"/>
+	<string id="%108%" value="Ковкий чугун"/>
+	<string id="%109%" value="Высокопрочный чугун"/>
+	<string id="%110%" value="Медный сплав C80100"/>
+	<string id="%111%" value="Сплав с высоким содержанием меди C81300"/>
+	<string id="%112%" value="Сплав с высоким содержанием меди C81500"/>
+	<string id="%113%" value="Сплав с высоким содержанием меди C81700"/>
+	<string id="%114%" value="Томпак C83300"/>
+	<string id="%115%" value="Томпак C83400"/>
+	<string id="%116%" value="Томпак C83600"/>
+	<string id="%117%" value="Томпак C83800"/>
+	<string id="%118%" value="Красноватая латунь C84200"/>
+	<string id="%119%" value="Красноватая латунь C84400"/>
+	<string id="%120%" value="Красноватая латунь C84500"/>
+	<string id="%121%" value="Красноватая латунь C84800"/>
+	<string id="%122%" value="Желтая латунь C85200"/>
+	<string id="%123%" value="Желтая латунь C85400"/>
+	<string id="%124%" value="Желтая латунь C85500"/>
+	<string id="%125%" value="Желтая латунь C85700"/>
+	<string id="%126%" value="Желтая латунь C85800"/>
+	<string id="%127%" value="Марганцовистая бронза C86100"/>
+	<string id="%128%" value="Марганцовистая бронза C86200"/>
+	<string id="%129%" value="Марганцовистая бронза C86300"/>
+	<string id="%130%" value="Марганцовистая бронза C86400"/>
+	<string id="%131%" value="Марганцовистая бронза C86500"/>
+	<string id="%132%" value="Марганцовистая бронза C86700"/>
+	<string id="%133%" value="Марганцовистая бронза C86800"/>
+	<string id="%134%" value="Кремнистая латунь C87200"/>
+	<string id="%135%" value="Кремнистая бронза C87400"/>
+	<string id="%136%" value="Кремнистая бронза C87500"/>
+	<string id="%137%" value="Кремнистая бронза C87600"/>
+	<string id="%138%" value="Кремнистая бронза C87800"/>
+	<string id="%139%" value="Кремнистая бронза C87900"/>
+	<string id="%140%" value="Оловянистая бронза C90200"/>
+	<string id="%141%" value="Оловянистая бронза C90300"/>
+	<string id="%142%" value="Оловянистая бронза C90500"/>
+	<string id="%143%" value="Оловянистая бронза C90700"/>
+	<string id="%144%" value="Оловянистая бронза C90900"/>
+	<string id="%145%" value="Оловянистая бронза C91000"/>
+	<string id="%146%" value="Оловянистая бронза C91100"/>
+	<string id="%147%" value="Оловянистая бронза C91300"/>
+	<string id="%148%" value="Оловянистая бронза C91600"/>
+	<string id="%149%" value="Оловянистая бронза C91700"/>
+	<string id="%150%" value="Свинцово-оловянистая бронза C92200"/>
+	<string id="%151%" value="Свинцово-оловянистая бронза C92300"/>
+	<string id="%152%" value="Свинцово-оловянистая бронза C92500"/>
+	<string id="%153%" value="Свинцово-оловянистая бронза C92600"/>
+	<string id="%154%" value="Свинцово-оловянистая бронза C92700"/>
+	<string id="%155%" value="Свинцово-оловянистая бронза C92800"/>
+	<string id="%156%" value="Свинцово-оловянистая бронза C92900"/>
+	<string id="%157%" value="Оловянистая бронза с высоким содержанием свинца C93200"/>
+	<string id="%158%" value="Оловянистая бронза с высоким содержанием свинца C93400"/>
+	<string id="%159%" value="Оловянистая бронза с высоким содержанием свинца C93500"/>
+	<string id="%160%" value="Оловянистая бронза с высоким содержанием свинца C93700"/>
+	<string id="%161%" value="Оловянистая бронза с высоким содержанием свинца C93800"/>
+	<string id="%162%" value="Оловянистая бронза с высоким содержанием свинца C93900"/>
+	<string id="%163%" value="Оловянистая бронза с высоким содержанием свинца C94300"/>
+	<string id="%164%" value="Оловянистая бронза с высоким содержанием свинца C94400"/>
+	<string id="%165%" value="Оловянистая бронза с высоким содержанием свинца C94500"/>
+	<string id="%166%" value="Никелево-оловянистая бронза C94700"/>
+	<string id="%167%" value="Никелево-оловянистая бронза C94800"/>
+	<string id="%168%" value="Алюминиевая бронза C95200"/>
+	<string id="%169%" value="Алюминиевая бронза C95300"/>
+	<string id="%170%" value="Алюминиевая бронза C95400"/>
+	<string id="%171%" value="Алюминиевая бронза C95500"/>
+	<string id="%172%" value="Алюминиевая бронза C95600"/>
+	<string id="%173%" value="Алюминиевая бронза C95700"/>
+	<string id="%174%" value="Алюминиевая бронза C95800"/>
+	<string id="%175%" value="Медно-никелевый сплав C96200"/>
+	<string id="%176%" value="Медно-никелевый сплав C96300"/>
+	<string id="%177%" value="Медно-никелевый сплав C96400"/>
+	<string id="%178%" value="Медно-никелевый сплав C96600"/>
+	<string id="%179%" value="Нейзильбер C97300"/>
+	<string id="%180%" value="Нейзильбер C97400"/>
+	<string id="%181%" value="Нейзильбер C97600"/>
+	<string id="%182%" value="Нейзильбер C97800"/>
+	<string id="%183%" value="Специальный сплав C99300"/>
+	<string id="%184%" value="Специальный сплав C99400"/>
+	<string id="%185%" value="Специальный сплав C99500"/>
+	<string id="%186%" value="Специальный сплав C99700"/>
+	<string id="%187%" value="Специальный сплав C99750"/>
+	<string id="%188%" value="Медный сплав C10100"/>
+	<string id="%189%" value="Медный сплав C15000"/>
+	<string id="%190%" value="Медный сплав C15500"/>
+	<string id="%191%" value="Медный сплав C15715"/>
+	<string id="%192%" value="Медный сплав C15720"/>
+	<string id="%193%" value="Медный сплав C15760"/>
+	<string id="%194%" value="Медный сплав C16200"/>
+	<string id="%195%" value="Медный сплав C16500"/>
+	<string id="%196%" value="Медный сплав C17000"/>
+	<string id="%197%" value="Медный сплав C17300"/>
+	<string id="%198%" value="Медный сплав C17500"/>
+	<string id="%199%" value="Медный сплав C18200"/>
+	<string id="%200%" value="Медный сплав C18900"/>
+	<string id="%201%" value="Медный сплав C19000"/>
+	<string id="%202%" value="Медный сплав C19100"/>
+	<string id="%203%" value="Медный сплав C19200"/>
+	<string id="%204%" value="Медный сплав C19400"/>
+	<string id="%205%" value="Медный сплав C19500"/>
+	<string id="%206%" value="Медный сплав C21000"/>
+	<string id="%207%" value="Техническая бронза C22000"/>
+	<string id="%208%" value="Томпак C23000"/>
+	<string id="%209%" value="Низкоцинковая латунь C24000"/>
+	<string id="%210%" value="Патронная латунь C26000"/>
+	<string id="%211%" value="Желтая латунь C26800"/>
+	<string id="%212%" value="Латунь Мунца C28000"/>
+	<string id="%213%" value="Свинцовистая техническая бронза C31400"/>
+	<string id="%214%" value="Латунь с низким содержанием свинца C33000"/>
+	<string id="%215%" value="Латунь с высоким содержанием свинца C34200"/>
+	<string id="%216%" value="Латунь со средним содержанием свинца C35000"/>
+	<string id="%217%" value="Свинцовистая латунь Мунца C36500"/>
+	<string id="%218%" value="После горячей прокатки"/>
+	<string id="%219%" value="Архитектурная бронза C38500"/>
+	<string id="%220%" value="В состоянии после прессования выдавливанием"/>
+	<string id="%221%" value="Медный сплав C40500"/>
+	<string id="%222%" value="Медный сплав C40800"/>
+	<string id="%223%" value="Медный сплав C41100"/>
+	<string id="%224%" value="Медный сплав C41300"/>
+	<string id="%225%" value="Медный сплав C41500"/>
+	<string id="%226%" value="Медный сплав C42200"/>
+	<string id="%227%" value="Медный сплав C42500"/>
+	<string id="%228%" value="Медный сплав C43000"/>
+	<string id="%229%" value="Медный сплав C43400"/>
+	<string id="%230%" value="Медный сплав C43500"/>
+	<string id="%231%" value="Медный сплав C44300"/>
+	<string id="%232%" value="Медный сплав C46400"/>
+	<string id="%233%" value="Медный сплав C48200"/>
+	<string id="%234%" value="Медный сплав C48500"/>
+	<string id="%235%" value="Медный сплав C50500"/>
+	<string id="%236%" value="Медный сплав C51000"/>
+	<string id="%237%" value="Медный сплав C51100"/>
+	<string id="%238%" value="Медный сплав C52100"/>
+	<string id="%239%" value="Медный сплав C52400"/>
+	<string id="%240%" value="Медный сплав C54400"/>
+	<string id="%241%" value="Медный сплав C60800"/>
+	<string id="%242%" value="Медный сплав C61000"/>
+	<string id="%243%" value="Медный сплав C61300"/>
+	<string id="%244%" value="Медный сплав C61400"/>
+	<string id="%245%" value="Медный сплав C61500"/>
+	<string id="%246%" value="Медный сплав C61800"/>
+	<string id="%247%" value="Медный сплав C61900"/>
+	<string id="%248%" value="Медный сплав C62300"/>
+	<string id="%249%" value="Медный сплав C62400"/>
+	<string id="%250%" value="Медный сплав C62500"/>
+	<string id="%251%" value="Медный сплав C63000"/>
+	<string id="%252%" value="Медный сплав C63200"/>
+	<string id="%253%" value="Медный сплав C63600"/>
+	<string id="%254%" value="Медный сплав C63800"/>
+	<string id="%255%" value="Медный сплав C64200"/>
+	<string id="%256%" value="Медный сплав C65100"/>
+	<string id="%257%" value="Медный сплав C65500"/>
+	<string id="%258%" value="Медный сплав C66700"/>
+	<string id="%259%" value="Медный сплав C67400"/>
+	<string id="%260%" value="Медный сплав C67500"/>
+	<string id="%261%" value="Медный сплав C68700"/>
+	<string id="%262%" value="Медный сплав C68800"/>
+	<string id="%263%" value="Медный сплав C69000"/>
+	<string id="%264%" value="Медный сплав C69400"/>
+	<string id="%265%" value="Медный сплав C70400"/>
+	<string id="%266%" value="Медный сплав C70600"/>
+	<string id="%267%" value="Медный сплав C71000"/>
+	<string id="%268%" value="Медный сплав C71500"/>
+	<string id="%269%" value="Медный сплав C72200"/>
+	<string id="%270%" value="Медный сплав C72500"/>
+	<string id="%271%" value="Медный сплав C73500"/>
+	<string id="%272%" value="Медный сплав C74500"/>
+	<string id="%273%" value="Медный сплав C75200"/>
+	<string id="%274%" value="Медный сплав C75400"/>
+	<string id="%275%" value="Медный сплав C75700"/>
+	<string id="%276%" value="Медный сплав C76390"/>
+	<string id="%277%" value="Медный сплав C77000"/>
+	<string id="%278%" value="Медный сплав C78200"/>
+	<string id="%279%" value="Алюминиевый сплав 201.0"/>
+	<string id="%280%" value="Литье (T7)"/>
+	<string id="%281%" value="Алюминиевый сплав 204.0"/>
+	<string id="%282%" value="Литье (T4)"/>
+	<string id="%283%" value="Алюминиевый сплав 208.0"/>
+	<string id="%284%" value="Литье (F)"/>
+	<string id="%285%" value="Алюминиевый сплав 222.0"/>
+	<string id="%286%" value="Литье (O)"/>
+	<string id="%287%" value="Литье (T61)"/>
+	<string id="%288%" value="Алюминиевый сплав 242.0"/>
+	<string id="%289%" value="Литье (T571)"/>
+	<string id="%290%" value="Литье (T77)"/>
+	<string id="%291%" value="Алюминиевый сплав 295.0"/>
+	<string id="%292%" value="Литье (T6)"/>
+	<string id="%293%" value="Литье (T62)"/>
+	<string id="%294%" value="Алюминиевый сплав 319.0"/>
+	<string id="%295%" value="Литье (T5)"/>
+	<string id="%296%" value="Алюминиевый сплав 328.0"/>
+	<string id="%297%" value="Алюминиевый сплав 355.0"/>
+	<string id="%298%" value="Литье (T51)"/>
+	<string id="%299%" value="Литье (T71)"/>
+	<string id="%300%" value="Алюминиевый сплав C355.0"/>
+	<string id="%301%" value="Алюминиевый сплав 356.0"/>
+	<string id="%302%" value="Алюминиевый сплав A356.0"/>
+	<string id="%303%" value="Алюминиевый сплав 443.0"/>
+	<string id="%304%" value="Алюминиевый сплав B443.0"/>
+	<string id="%305%" value="Алюминиевый сплав 512.0"/>
+	<string id="%306%" value="Алюминиевый сплав 514.0"/>
+	<string id="%307%" value="Алюминиевый сплав 520.0"/>
+	<string id="%308%" value="Алюминиевый сплав 535.0"/>
+	<string id="%309%" value="Литье (F или T5)"/>
+	<string id="%310%" value="Алюминиевый сплав 705.0"/>
+	<string id="%311%" value="Алюминиевый сплав 707.0"/>
+	<string id="%312%" value="Алюминиевый сплав 710.0"/>
+	<string id="%313%" value="Алюминиевый сплав 712.0"/>
+	<string id="%314%" value="Алюминиевый сплав 713.0"/>
+	<string id="%315%" value="Алюминиевый сплав 771.0"/>
+	<string id="%316%" value="Литье (T52)"/>
+	<string id="%317%" value="Литье (T53)"/>
+	<string id="%318%" value="Алюминиевый сплав 850.0"/>
+	<string id="%319%" value="Алюминиевый сплав 851.0"/>
+	<string id="%320%" value="Алюминиевый сплав 852.0"/>
+	<string id="%321%" value="Алюминиевый сплав 1060-O"/>
+	<string id="%322%" value="Ковкий"/>
+	<string id="%323%" value="Алюминиевый сплав 1060-H12"/>
+	<string id="%324%" value="Алюминиевый сплав 1060-H14"/>
+	<string id="%325%" value="Алюминиевый сплав 1060-H16"/>
+	<string id="%326%" value="Алюминиевый сплав 1060-H18"/>
+	<string id="%327%" value="Алюминиевый сплав 1100-O"/>
+	<string id="%328%" value="Алюминиевый сплав 1100-H12"/>
+	<string id="%329%" value="Алюминиевый сплав 1100-H14"/>
+	<string id="%330%" value="Алюминиевый сплав 1100-H16"/>
+	<string id="%331%" value="Алюминиевый сплав 1100-H18"/>
+	<string id="%332%" value="Алюминиевый сплав 1350-O"/>
+	<string id="%333%" value="Алюминиевый сплав 1350-H12"/>
+	<string id="%334%" value="Алюминиевый сплав 1350-H14"/>
+	<string id="%335%" value="Алюминиевый сплав 1350-H16"/>
+	<string id="%336%" value="Алюминиевый сплав 1350-H19"/>
+	<string id="%337%" value="Алюминиевый сплав 2011-T3"/>
+	<string id="%338%" value="Алюминиевый сплав 2011-T8"/>
+	<string id="%339%" value="Алюминиевый сплав 2014-O"/>
+	<string id="%340%" value="Алюминиевый сплав 2014-T4"/>
+	<string id="%341%" value="Алюминиевый сплав 2014-T451"/>
+	<string id="%342%" value="Алюминиевый сплав 2014-T6"/>
+	<string id="%343%" value="Алюминиевый сплав 2014-T651"/>
+	<string id="%344%" value="Алюминиевый сплав, плакированный дюралюминий 2014-O"/>
+	<string id="%345%" value="Алюминиевый сплав, плакированный дюралюминий 2014-T3"/>
+	<string id="%346%" value="Алюминиевый сплав, плакированный дюралюминий 2014-T4"/>
+	<string id="%347%" value="Алюминиевый сплав, плакированный дюралюминий 2014-T451"/>
+	<string id="%348%" value="Алюминиевый сплав, плакированный дюралюминий 2014-T6"/>
+	<string id="%349%" value="Алюминиевый сплав, плакированный дюралюминий 2014-T651"/>
+	<string id="%350%" value="Алюминиевый сплав 2017-O"/>
+	<string id="%351%" value="Алюминиевый сплав 2017-T4"/>
+	<string id="%352%" value="Алюминиевый сплав 2017-T451"/>
+	<string id="%353%" value="Алюминиевый сплав 2018-T61"/>
+	<string id="%354%" value="Алюминиевый сплав 2024-O"/>
+	<string id="%355%" value="Алюминиевый сплав 2024-T3"/>
+	<string id="%356%" value="Алюминиевый сплав 2024-T351"/>
+	<string id="%357%" value="Алюминиевый сплав 2024-T4"/>
+	<string id="%358%" value="Алюминиевый сплав 2024-T361"/>
+	<string id="%359%" value="Алюминиевый сплав, плакированный дюралюминий 2024-O"/>
+	<string id="%360%" value="Алюминиевый сплав, плакированный дюралюминий 2024-T3"/>
+	<string id="%361%" value="Алюминиевый сплав, плакированный дюралюминий 2024-T351"/>
+	<string id="%362%" value="Алюминиевый сплав, плакированный дюралюминий 2024-T4"/>
+	<string id="%363%" value="Алюминиевый сплав, плакированный дюралюминий 202024-T361"/>
+	<string id="%364%" value="Алюминиевый сплав, плакированный дюралюминий 2024-T81"/>
+	<string id="%365%" value="Алюминиевый сплав, плакированный дюралюминий 2024-T851"/>
+	<string id="%366%" value="Алюминиевый сплав, плакированный дюралюминий 2024-T861"/>
+	<string id="%367%" value="Алюминиевый сплав 2025-T6"/>
+	<string id="%368%" value="Алюминиевый сплав 2036-T4"/>
+	<string id="%369%" value="Алюминиевый сплав 2117-T4"/>
+	<string id="%370%" value="Алюминиевый сплав 2218-T72"/>
+	<string id="%371%" value="Алюминиевый сплав 2219-O"/>
+	<string id="%372%" value="Алюминиевый сплав 2219-T42"/>
+	<string id="%373%" value="Алюминиевый сплав 2219-T31"/>
+	<string id="%374%" value="Алюминиевый сплав 2219-T351"/>
+	<string id="%375%" value="Алюминиевый сплав 2219-T37"/>
+	<string id="%376%" value="Алюминиевый сплав 2219-T62"/>
+	<string id="%377%" value="Алюминиевый сплав 2219-T81"/>
+	<string id="%378%" value="Алюминиевый сплав 2219-T851"/>
+	<string id="%379%" value="Алюминиевый сплав 2219-T87"/>
+	<string id="%380%" value="Алюминиевый сплав 3003-O"/>
+	<string id="%381%" value="Алюминиевый сплав 3003-H12"/>
+	<string id="%382%" value="Алюминиевый сплав 3003-H14"/>
+	<string id="%383%" value="Алюминиевый сплав 3003-H16"/>
+	<string id="%384%" value="Алюминиевый сплав 3003-H18"/>
+	<string id="%385%" value="Алюминиевый сплав, плакированный дюралюминий 3003-O"/>
+	<string id="%386%" value="Алюминиевый сплав, плакированный дюралюминий 3003-H12"/>
+	<string id="%387%" value="Алюминиевый сплав 3003-H14"/>
+	<string id="%388%" value="Алюминиевый сплав, плакированный дюралюминий 3003-H16"/>
+	<string id="%389%" value="Алюминиевый сплав, плакированный дюралюминий 3003-H18"/>
+	<string id="%390%" value="Алюминиевый сплав 3004-O"/>
+	<string id="%391%" value="Алюминиевый сплав 3004-H32"/>
+	<string id="%392%" value="Алюминиевый сплав 3004-H34"/>
+	<string id="%393%" value="Алюминиевый сплав 3004-H36"/>
+	<string id="%394%" value="Алюминиевый сплав 3004-H38"/>
+	<string id="%395%" value="Алюминиевый сплав, плакированный дюралюминий 3004-O"/>
+	<string id="%396%" value="Алюминиевый сплав, плакированный дюралюминий 3004-H32"/>
+	<string id="%397%" value="Алюминиевый сплав, плакированный дюралюминий 3004-H34"/>
+	<string id="%398%" value="Алюминиевый сплав, плакированный дюралюминий 3004-H36"/>
+	<string id="%399%" value="Алюминиевый сплав, плакированный дюралюминий 3004-H38"/>
+	<string id="%400%" value="Алюминиевый сплав 3105-O"/>
+	<string id="%401%" value="Алюминиевый сплав 3105-H12"/>
+	<string id="%402%" value="Алюминиевый сплав 3105-H14"/>
+	<string id="%403%" value="Алюминиевый сплав 3105-H16"/>
+	<string id="%404%" value="Алюминиевый сплав 3105-H18"/>
+	<string id="%405%" value="Алюминиевый сплав 3105-H25"/>
+	<string id="%406%" value="Алюминиевый сплав 4032-T6"/>
+	<string id="%407%" value="Алюминиевый сплав 5005-O"/>
+	<string id="%408%" value="Алюминиевый сплав 5005-H12"/>
+	<string id="%409%" value="Алюминиевый сплав 5005-H14"/>
+	<string id="%410%" value="Алюминиевый сплав 5005-H16"/>
+	<string id="%411%" value="Алюминиевый сплав 5005-H18"/>
+	<string id="%412%" value="Алюминиевый сплав 5005-H32"/>
+	<string id="%413%" value="Алюминиевый сплав 5005-H34"/>
+	<string id="%414%" value="Алюминиевый сплав 5005-H36"/>
+	<string id="%415%" value="Алюминиевый сплав 5005-H38"/>
+	<string id="%416%" value="Алюминиевый сплав 5050-O"/>
+	<string id="%417%" value="Алюминиевый сплав 5050-H32"/>
+	<string id="%418%" value="Алюминиевый сплав 5050-H34"/>
+	<string id="%419%" value="Алюминиевый сплав 5050-H36"/>
+	<string id="%420%" value="Алюминиевый сплав 5050-H38"/>
+	<string id="%421%" value="Алюминиевый сплав 5052-O"/>
+	<string id="%422%" value="Алюминиевый сплав 5052-H32"/>
+	<string id="%423%" value="Алюминиевый сплав 5052-H34"/>
+	<string id="%424%" value="Алюминиевый сплав 5052-H36"/>
+	<string id="%425%" value="Алюминиевый сплав 5052-H38"/>
+	<string id="%426%" value="Алюминиевый сплав 5056-O"/>
+	<string id="%427%" value="Алюминиевый сплав 5056-H18"/>
+	<string id="%428%" value="Алюминиевый сплав 5056-H38"/>
+	<string id="%429%" value="Алюминиевый сплав 5083-O"/>
+	<string id="%430%" value="Алюминиевый сплав 5083-H116"/>
+	<string id="%431%" value="Алюминиевый сплав 5083-H321"/>
+	<string id="%432%" value="Алюминиевый сплав 5086-O"/>
+	<string id="%433%" value="Алюминиевый сплав 5086-H32"/>
+	<string id="%434%" value="Алюминиевый сплав 5086-H34"/>
+	<string id="%435%" value="Алюминиевый сплав 5086-H112"/>
+	<string id="%436%" value="Алюминиевый сплав 5086-H116"/>
+	<string id="%437%" value="Алюминиевый сплав 5154-O"/>
+	<string id="%438%" value="Алюминиевый сплав 5154-H32"/>
+	<string id="%439%" value="Алюминиевый сплав 5154-H34"/>
+	<string id="%440%" value="Алюминиевый сплав 5154-H36"/>
+	<string id="%441%" value="Алюминиевый сплав 5154-H38"/>
+	<string id="%442%" value="Алюминиевый сплав 5154-H112"/>
+	<string id="%443%" value="Алюминиевый сплав 5252-H25"/>
+	<string id="%444%" value="Алюминиевый сплав 5252-H28"/>
+	<string id="%445%" value="Алюминиевый сплав 5252-H38"/>
+	<string id="%446%" value="Алюминиевый сплав 5254-O"/>
+	<string id="%447%" value="Алюминиевый сплав 5254-H32"/>
+	<string id="%448%" value="Алюминиевый сплав 5254-H34"/>
+	<string id="%449%" value="Алюминиевый сплав 5254-H36"/>
+	<string id="%450%" value="Алюминиевый сплав 5254-H38"/>
+	<string id="%451%" value="Алюминиевый сплав 5254-H112"/>
+	<string id="%452%" value="Алюминиевый сплав 5454-O"/>
+	<string id="%453%" value="Алюминиевый сплав 5454-H32"/>
+	<string id="%454%" value="Алюминиевый сплав 5454-H34"/>
+	<string id="%455%" value="Алюминиевый сплав 5454-H111"/>
+	<string id="%456%" value="Алюминиевый сплав 5454-H112"/>
+	<string id="%457%" value="Алюминиевый сплав 5456-O"/>
+	<string id="%458%" value="Алюминиевый сплав 5456-H112"/>
+	<string id="%459%" value="Алюминиевый сплав 5456-H116"/>
+	<string id="%460%" value="Алюминиевый сплав 5456-H321"/>
+	<string id="%461%" value="Алюминиевый сплав 5457-O"/>
+	<string id="%462%" value="Алюминиевый сплав 5457-H25"/>
+	<string id="%463%" value="Алюминиевый сплав 5457-H28"/>
+	<string id="%464%" value="Алюминиевый сплав 5457-H38"/>
+	<string id="%465%" value="Алюминиевый сплав 5652-O"/>
+	<string id="%466%" value="Алюминиевый сплав 5652-H32"/>
+	<string id="%467%" value="Алюминиевый сплав 5652-H34"/>
+	<string id="%468%" value="Алюминиевый сплав 5652-H36"/>
+	<string id="%469%" value="Алюминиевый сплав 5652-H38"/>
+	<string id="%470%" value="Алюминиевый сплав 5657-H25"/>
+	<string id="%471%" value="Алюминиевый сплав 5657-H28"/>
+	<string id="%472%" value="Алюминиевый сплав 5657-H38"/>
+	<string id="%473%" value="Алюминиевый сплав 6061-O"/>
+	<string id="%474%" value="Алюминиевый сплав 6061-T4"/>
+	<string id="%475%" value="Алюминиевый сплав 6061-T451"/>
+	<string id="%476%" value="Алюминиевый сплав 6061-T6"/>
+	<string id="%477%" value="Алюминиевый сплав 6061-T651"/>
+	<string id="%478%" value="Алюминиевый сплав, плакированный дюралюминий 6061-O"/>
+	<string id="%479%" value="Алюминиевый сплав, плакированный дюралюминий 6061-T4"/>
+	<string id="%480%" value="Алюминиевый сплав, плакированный дюралюминий 6061-T451"/>
+	<string id="%481%" value="Алюминиевый сплав, плакированный дюралюминий 6061-T6"/>
+	<string id="%482%" value="Алюминиевый сплав, плакированный дюралюминий 6061-T651"/>
+	<string id="%483%" value="Алюминиевый сплав 6063-O"/>
+	<string id="%484%" value="Алюминиевый сплав 6063-T1"/>
+	<string id="%485%" value="Алюминиевый сплав 6063-T4"/>
+	<string id="%486%" value="Алюминиевый сплав 6063-T5"/>
+	<string id="%487%" value="Алюминиевый сплав 6063-T6"/>
+	<string id="%488%" value="Алюминиевый сплав 6063-T83"/>
+	<string id="%489%" value="Алюминиевый сплав 6063-T831"/>
+	<string id="%490%" value="Алюминиевый сплав 6063-T832"/>
+	<string id="%491%" value="Алюминиевый сплав 6066-O"/>
+	<string id="%492%" value="Алюминиевый сплав 6066-T4"/>
+	<string id="%493%" value="Алюминиевый сплав 6066-T451"/>
+	<string id="%494%" value="Алюминиевый сплав 6066-T6"/>
+	<string id="%495%" value="Алюминиевый сплав 6066-T651"/>
+	<string id="%496%" value="Алюминиевый сплав 6070-T6"/>
+	<string id="%497%" value="Алюминиевый сплав 6101-H111"/>
+	<string id="%498%" value="Алюминиевый сплав 6101-T6"/>
+	<string id="%499%" value="Алюминиевый сплав 6262-T9"/>
+	<string id="%500%" value="Алюминиевый сплав 6351-T4"/>
+	<string id="%501%" value="Алюминиевый сплав 6351-T6"/>
+	<string id="%502%" value="Алюминиевый сплав 6463-T1"/>
+	<string id="%503%" value="Алюминиевый сплав 6463-T5"/>
+	<string id="%504%" value="Алюминиевый сплав 6463-T6"/>
+	<string id="%505%" value="Алюминиевый сплав 7049-T73"/>
+	<string id="%506%" value="Алюминиевый сплав 7049-T7352"/>
+	<string id="%507%" value="Алюминиевый сплав 7050-T73510"/>
+	<string id="%508%" value="Алюминиевый сплав 7050-T7451f"/>
+	<string id="%509%" value="Алюминиевый сплав 7050-T7651"/>
+	<string id="%510%" value="Алюминиевый сплав 7075-O"/>
+	<string id="%511%" value="Алюминиевый сплав 7075-T6"/>
+	<string id="%512%" value="Алюминиевый сплав 7075-T651"/>
+	<string id="%513%" value="Алюминиевый сплав, плакированный дюралюминий 7075-O"/>
+	<string id="%514%" value="Алюминиевый сплав, плакированный дюралюминий 7075-T6"/>
+	<string id="%515%" value="Алюминиевый сплав, плакированный дюралюминий 7075-T651"/>
+	<string id="%516%" value="Алюминиевый сплав 7178-O"/>
+	<string id="%517%" value="Алюминиевый сплав 7178-T6"/>
+	<string id="%518%" value="Алюминиевый сплав 7178-T651"/>
+	<string id="%519%" value="Алюминиевый сплав 7178-T76"/>
+	<string id="%520%" value="Алюминиевый сплав 7178-T7651"/>
+	<string id="%521%" value="Алюминиевый сплав, плакированный дюралюминий 7178-O"/>
+	<string id="%522%" value="Алюминиевый сплав, плакированный дюралюминий 7178-T6"/>
+	<string id="%523%" value="Алюминиевый сплав, плакированный дюралюминий 7178-T651"/>
+	<string id="%524%" value="Алюминиевый сплав 8176-H24"/>
+	<string id="%525%" value="Магниевый сплав AM100A-T61"/>
+	<string id="%526%" value="литье в песчаные формы"/>
+	<string id="%527%" value="Магниевый сплав AZ63A-T6"/>
+	<string id="%528%" value="Магниевый сплав AZ81A-T4"/>
+	<string id="%529%" value="Магниевый сплав AZ91C-T6"/>
+	<string id="%530%" value="Магниевый сплав AZ91E-T6"/>
+	<string id="%531%" value="Магниевый сплав AZ92A-T6"/>
+	<string id="%532%" value="Магниевый сплав EZ33A-T5"/>
+	<string id="%533%" value="Магниевый сплав HK31A-T6"/>
+	<string id="%534%" value="Магниевый сплав HZ32A-T6"/>
+	<string id="%535%" value="Магниевый сплав K1A-F"/>
+	<string id="%536%" value="Магниевый сплав QE22A-T6"/>
+	<string id="%537%" value="Магниевый сплав QH21A-T6"/>
+	<string id="%538%" value="Магниевый сплав ZE41A-T5"/>
+	<string id="%539%" value="Магниевый сплав ZE63A-T6"/>
+	<string id="%540%" value="Магниевый сплав ZH62A-T5"/>
+	<string id="%541%" value="Магниевый сплав ZK51A-T5"/>
+	<string id="%542%" value="Магниевый сплав ZK61A-T6"/>
+	<string id="%543%" value="Магниевый сплав WE54A-F"/>
+	<string id="%544%" value="Магниевый сплав AZ91A-F"/>
+	<string id="%545%" value="литье под давлением"/>
+	<string id="%546%" value="Магниевый сплав AZ91B-FAZ91B-F"/>
+	<string id="%547%" value="Магниевый сплав AZ91D-F"/>
+	<string id="%548%" value="Магниевый сплав AM60A-F"/>
+	<string id="%549%" value="Магниевый сплав AM60B-F"/>
+	<string id="%550%" value="Магниевый сплав AS41A-F"/>
+	<string id="%551%" value="Магниевый сплав AZ10A-F"/>
+	<string id="%552%" value="Магниевый сплав AZ31B-F"/>
+	<string id="%553%" value="Магниевый сплав AZ31C-F"/>
+	<string id="%554%" value="Магниевый сплав AZ61A-F"/>
+	<string id="%555%" value="Магниевый сплав AZ80A-T5"/>
+	<string id="%556%" value="Магниевый сплав HM31A-F"/>
+	<string id="%557%" value="Магниевый сплав M1A-F"/>
+	<string id="%558%" value="Магниевый сплав ZK40A-T5"/>
+	<string id="%559%" value="Магниевый сплав ZK60A-F"/>
+	<string id="%560%" value="Магниевый сплав AZ31B-H24"/>
+	<string id="%561%" value="Магниевый сплав AZ31C-H24"/>
+	<string id="%562%" value="Магниевый сплав HK31A-H24"/>
+	<string id="%563%" value="Магниевый сплав HM21A-T8"/>
+	<string id="%564%" value="Стандарт"/>
+	<string id="%565%" value="Стандарт"/>
+	<string id="%566%" value="ANSI"/>
+	<string id="%567%" value="ISO"/>
+	<string id="%568%" value="DIN"/>
+	<string id="%569%" value="BS"/>
+	<string id="%570%" value="CSN"/>
+	<string id="%571%" value="GOST"/>
+	<string id="%572%" value="NF"/>
+	<string id="%573%" value="JIS"/>
+	<string id="%574%" value="Материал"/>
+	<string id="%575%" value="Термообработка"/>
+	<string id="%576%" value="S|.u|"/>
+	<string id="%577%" value="S|.y|"/>
+	<string id="%578%" value="A5"/>
+	<string id="%579%" value="B|.hn|"/>
+	<string id="%580%" value="p|.H|"/>
+	<string id="%581%" value="E"/>
+	<string id="%582%" value="G"/>
+	<string id="%583%" value="||m|"/>
+	<string id="%584%" value="||r|"/>
+	<string id="%585%" value="Наименование"/>
+	<string id="%586%" value="EN 11SMn30"/>
+	<string id="%587%" value="Автоматная сталь"/>
+	<string id="%588%" value="EN 10S2O"/>
+	<string id="%589%" value="EN 35S20"/>
+	<string id="%590%" value="EN FeP01"/>
+	<string id="%591%" value="Произвольно натянутая сталь"/>
+	<string id="%592%" value="EN FeP03"/>
+	<string id="%593%" value="EN FeP04"/>
+	<string id="%594%" value="EN SPT360"/>
+	<string id="%595%" value="Конструкционная сталь"/>
+	<string id="%596%" value="EN P235GH"/>
+	<string id="%597%" value="Жаропрочная сталь"/>
+	<string id="%598%" value="EN S235JRG1"/>
+	<string id="%599%" value="EN S235JRH"/>
+	<string id="%600%" value="EN S235JRG2"/>
+	<string id="%601%" value="EN S235JO"/>
+	<string id="%602%" value="EN P265GH"/>
+	<string id="%603%" value="EN S275JR"/>
+	<string id="%604%" value="EN S275J2G3"/>
+	<string id="%605%" value="EN S275J2HG3"/>
+	<string id="%606%" value="EN S355J2G3"/>
+	<string id="%607%" value="EN S355J2H"/>
+	<string id="%608%" value="EN S355JO"/>
+	<string id="%609%" value="EN S355JOH"/>
+	<string id="%610%" value="EN SPT410"/>
+	<string id="%611%" value="EN SPT510"/>
+	<string id="%612%" value="EN E295"/>
+	<string id="%613%" value="EN E355"/>
+	<string id="%614%" value="EN E360"/>
+	<string id="%615%" value="EN C10E"/>
+	<string id="%616%" value="Цементированная сталь"/>
+	<string id="%617%" value="EN C15E"/>
+	<string id="%618%" value="EN C22"/>
+	<string id="%619%" value="Закалочная сталь"/>
+	<string id="%620%" value="EN C25"/>
+	<string id="%621%" value="EN C30"/>
+	<string id="%622%" value="EN C35"/>
+	<string id="%623%" value="EN C40"/>
+	<string id="%624%" value="EN C45"/>
+	<string id="%625%" value="термообработка"/>
+	<string id="%626%" value="EN C50"/>
+	<string id="%627%" value="EN C55"/>
+	<string id="%628%" value="EN C60"/>
+	<string id="%629%" value="EN P295GH"/>
+	<string id="%630%" value="EN 28Mn6"/>
+	<string id="%631%" value="EN 17Cr3"/>
+	<string id="%632%" value="EN 34Cr4"/>
+	<string id="%633%" value="EN 37Cr4"/>
+	<string id="%634%" value="EN 41Cr4"/>
+	<string id="%635%" value="EN 16MnCr5"/>
+	<string id="%636%" value="закалка"/>
+	<string id="%637%" value="EN 20MnCr5"/>
+	<string id="%638%" value="EN 16Mo3"/>
+	<string id="%639%" value="EN 13CrMo4"/>
+	<string id="%640%" value="EN 25CrMo4"/>
+	<string id="%641%" value="EN 34CrMo4"/>
+	<string id="%642%" value="EN 42CrMo4"/>
+	<string id="%643%" value="EN S355J2G1W"/>
+	<string id="%644%" value="EN S355J0WP"/>
+	<string id="%645%" value="EN 51CrV4"/>
+	<string id="%646%" value="Твердеющая сталь"/>
+	<string id="%647%" value="EN 10CrMo9-10"/>
+	<string id="%648%" value="EN 11CrMo9-10"/>
+	<string id="%649%" value="EN 16NiCr4"/>
+	<string id="%650%" value="EN 12Ni14"/>
+	<string id="%651%" value="EN 34CrNiMo6"/>
+	<string id="%652%" value="EN 30CrNiMo8"/>
+	<string id="%653%" value="EN 12Ni19"/>
+	<string id="%654%" value="EN X8Ni9"/>
+	<string id="%655%" value="EN X6Cr13"/>
+	<string id="%656%" value="Нержавеющая сталь"/>
+	<string id="%657%" value="EN X12Cr13"/>
+	<string id="%658%" value="EN X20Cr13"/>
+	<string id="%659%" value="EN X30Cr13"/>
+	<string id="%660%" value="EN X6Cr17"/>
+	<string id="%661%" value="EN X17CrNi16-2"/>
+	<string id="%662%" value="EN X5CrNi18-10"/>
+	<string id="%663%" value="EN X8CrNiS18-9"/>
+	<string id="%664%" value="EN X6CrNiTi18-10"/>
+	<string id="%665%" value="Жаропрочная нержавеющая сталь"/>
+	<string id="%666%" value="EN X2CrNi19-11"/>
+	<string id="%667%" value="EN X2CrNiN18-10"/>
+	<string id="%668%" value="EN X5CrNiMo17-12-2"/>
+	<string id="%669%" value="EN X6CrNiMoTi17-12-2"/>
+	<string id="%670%" value="EN X2CrNiMo17-12-2"/>
+	<string id="%671%" value="EN X2CrNiMo18-14-3"/>
+	<string id="%672%" value="EN X3CrNiMo17-13-3"/>
+	<string id="%673%" value="EN X2CrNiMoN17-11-2"/>
+	<string id="%674%" value="EN X2CrNiMoN17-13-3"/>
+	<string id="%675%" value="EN X2CrNiMoN22-5-3"/>
+	<string id="%676%" value="EN X12CrMnNiN18-9-5"/>
+	<string id="%677%" value="Серый чугун"/>
+	<string id="%678%" value="DIN 9SMn28"/>
+	<string id="%679%" value="DIN 10S2O"/>
+	<string id="%680%" value="DIN 35S20"/>
+	<string id="%681%" value="DIN USt1303"/>
+	<string id="%682%" value="Конструкционная сталь для глубокой вытяжки"/>
+	<string id="%683%" value="DIN St1405"/>
+	<string id="%684%" value="DIN St1203"/>
+	<string id="%685%" value="DIN USt34-2"/>
+	<string id="%686%" value="DIN St34-2BK"/>
+	<string id="%687%" value="DIN St37.0"/>
+	<string id="%688%" value="DIN HI"/>
+	<string id="%689%" value="DIN St37-2"/>
+	<string id="%690%" value="DIN St37-2BK"/>
+	<string id="%691%" value="DIN RSt37-2"/>
+	<string id="%692%" value="DIN St37-3"/>
+	<string id="%693%" value="DIN HII"/>
+	<string id="%694%" value="DIN St44-2"/>
+	<string id="%695%" value="DIN St44.0"/>
+	<string id="%696%" value="DIN St44-3"/>
+	<string id="%697%" value="DIN St50-2"/>
+	<string id="%698%" value="DIN St52-3"/>
+	<string id="%699%" value="DIN St52.0"/>
+	<string id="%700%" value="DIN St52-3BK"/>
+	<string id="%701%" value="DIN St60-2"/>
+	<string id="%702%" value="DIN St70-2"/>
+	<string id="%703%" value="DIN Ck10"/>
+	<string id="%704%" value="DIN Ck15"/>
+	<string id="%705%" value="DIN Ck22"/>
+	<string id="%706%" value="DIN Ck25"/>
+	<string id="%707%" value="DIN Ck30"/>
+	<string id="%708%" value="DIN Ck35"/>
+	<string id="%709%" value="DIN Cf35"/>
+	<string id="%710%" value="DIN Ck40"/>
+	<string id="%711%" value="DIN Ck45"/>
+	<string id="%712%" value="DIN Cf45"/>
+	<string id="%713%" value="DIN Ck50"/>
+	<string id="%714%" value="поверхностно упрочненная"/>
+	<string id="%715%" value="DIN Cf53"/>
+	<string id="%716%" value="DIN Ck55"/>
+	<string id="%717%" value="DIN Ck60"/>
+	<string id="%718%" value="нитроцементированная"/>
+	<string id="%719%" value="DIN 17Mn4"/>
+	<string id="%720%" value="DIN 28Mn6"/>
+	<string id="%721%" value="DIN 17Cr3"/>
+	<string id="%722%" value="DIN 34Cr4"/>
+	<string id="%723%" value="DIN 37Cr4"/>
+	<string id="%724%" value="нитроцементированная"/>
+	<string id="%725%" value="DIN 38Cr4"/>
+	<string id="%726%" value="DIN 41Cr4"/>
+	<string id="%727%" value="DIN 42Cr4"/>
+	<string id="%728%" value="DIN 37CrS4"/>
+	<string id="%729%" value="DIN 41CrS4"/>
+	<string id="%730%" value="DIN 55Cr3"/>
+	<string id="%731%" value="Пружинная сталь"/>
+	<string id="%732%" value="DIN 16MnCr5"/>
+	<string id="%733%" value="DIN 20MnCr5"/>
+	<string id="%734%" value="DIN 54SiCr6"/>
+	<string id="%735%" value="DIN 15Mo3"/>
+	<string id="%736%" value="DIN 13CrMo4"/>
+	<string id="%737%" value="DIN WTSt52-3"/>
+	<string id="%738%" value="DIN 25CrMo4"/>
+	<string id="%739%" value="DIN 34CrMo4"/>
+	<string id="%740%" value="DIN 42CrMo4"/>
+	<string id="%741%" value="DIN 41CrMo4"/>
+	<string id="%742%" value="DIN 49CrMo4"/>
+	<string id="%743%" value="DIN 30CrV9"/>
+	<string id="%744%" value="азотированная"/>
+	<string id="%745%" value="Азотированная сталь"/>
+	<string id="%746%" value="DIN 42CrV6"/>
+	<string id="%747%" value="DIN 50CrV4"/>
+	<string id="%748%" value="DIN 10CrMo9-10"/>
+	<string id="%749%" value="DIN 41CrAlMo7"/>
+	<string id="%750%" value="DIN 32CrMo12"/>
+	<string id="%751%" value="DIN 31CrMo12"/>
+	<string id="%752%" value="DIN 17CrNiMo6"/>
+	<string id="%753%" value="DIN 10Ni14"/>
+	<string id="%754%" value="DIN 34CrNiMo6"/>
+	<string id="%755%" value="DIN 30CrNiMo8"/>
+	<string id="%756%" value="DIN 12Ni19"/>
+	<string id="%757%" value="DIN X8Ni9"/>
+	<string id="%758%" value="DIN X6Cr13"/>
+	<string id="%759%" value="DIN X6Cr17"/>
+	<string id="%760%" value="DIN X10Cr13"/>
+	<string id="%761%" value="DIN X20Cr13"/>
+	<string id="%762%" value="DIN X30Cr13"/>
+	<string id="%763%" value="DIN X45CrSi93"/>
+	<string id="%764%" value="DIN X6CrAl13"/>
+	<string id="%765%" value="DIN X20CrNi172"/>
+	<string id="%766%" value="DIN X85CrMoV182"/>
+	<string id="%767%" value="DIN X5CrNi1810"/>
+	<string id="%768%" value="DIN X10CrNiS189"/>
+	<string id="%769%" value="DIN X6CrNiTi1810"/>
+	<string id="%770%" value="DIN X2CrNi1911"/>
+	<string id="%771%" value="DIN X2CrNiN1810"/>
+	<string id="%772%" value="DIN X5CrNiMo17122"/>
+	<string id="%773%" value="DIN X6CrNiMoTi17122"/>
+	<string id="%774%" value="DIN X2CrNiMo17132"/>
+	<string id="%775%" value="DIN X2CrNiMo18143"/>
+	<string id="%776%" value="DIN X5CrNiMo17133"/>
+	<string id="%777%" value="DIN X2CrNiMoN17122"/>
+	<string id="%778%" value="DIN X2CrNiMoN17133"/>
+	<string id="%779%" value="DIN X2CrNiMoN17135"/>
+	<string id="%780%" value="DIN X8CrMnNi188"/>
+	<string id="%781%" value="DIN X53CrMnNiN219"/>
+	<string id="%782%" value="DIN GG - 15"/>
+	<string id="%783%" value="DIN GG - 20"/>
+	<string id="%784%" value="DIN GG - 25"/>
+	<string id="%785%" value="DIN GG - 30"/>
+	<string id="%786%" value="DIN GG - 35"/>
+	<string id="%787%" value="DIN GGG - 50"/>
+	<string id="%788%" value="DIN GGG - 60"/>
+	<string id="%789%" value="DIN GGG - 70"/>
+	<string id="%790%" value="DIN GGG - 80"/>
+	<string id="%791%" value="DIN GTS - 40"/>
+	<string id="%792%" value="DIN GTS - 50"/>
+	<string id="%793%" value="BS 230M07"/>
+	<string id="%794%" value="BS 210M15"/>
+	<string id="%795%" value="BS 212M36"/>
+	<string id="%796%" value="BS CR3GP"/>
+	<string id="%797%" value="BS CR2PL"/>
+	<string id="%798%" value="BS CR4GP"/>
+	<string id="%799%" value="BS CEW2BK"/>
+	<string id="%800%" value="BS CFS3NBK"/>
+	<string id="%801%" value="BS Класс 360"/>
+	<string id="%802%" value="BS 40A"/>
+	<string id="%803%" value="BS CEW3BK"/>
+	<string id="%804%" value="BS 40B"/>
+	<string id="%805%" value="BS 40C"/>
+	<string id="%806%" value="BS Класс 430"/>
+	<string id="%807%" value="BS 43B"/>
+	<string id="%808%" value="BS CFS6NBK"/>
+	<string id="%809%" value="BS 43D"/>
+	<string id="%810%" value="BS 50B"/>
+	<string id="%811%" value="BS 50C"/>
+	<string id="%812%" value="BS 50D"/>
+	<string id="%813%" value="BS CFS8NBK"/>
+	<string id="%814%" value="BS CEW5BK"/>
+	<string id="%815%" value="BS 55C"/>
+	<string id="%816%" value="BS 55E"/>
+	<string id="%817%" value="BS 045M10"/>
+	<string id="%818%" value="BS 080M15"/>
+	<string id="%819%" value="BS 070M20"/>
+	<string id="%820%" value="BS 070M26"/>
+	<string id="%821%" value="BS 080M30"/>
+	<string id="%822%" value="BS 080M36"/>
+	<string id="%823%" value="BS 080A35"/>
+	<string id="%824%" value="BS 080M40"/>
+	<string id="%825%" value="BS 080M46"/>
+	<string id="%826%" value="BS 060A47"/>
+	<string id="%827%" value="BS 080M50"/>
+	<string id="%828%" value="BS 060A57"/>
+	<string id="%829%" value="BS 070M55"/>
+	<string id="%830%" value="BS 150M19"/>
+	<string id="%831%" value="BS 251A58"/>
+	<string id="%832%" value="BS 523M15"/>
+	<string id="%833%" value="BS 530A36"/>
+	<string id="%834%" value="BS 530M40"/>
+	<string id="%835%" value="Закалочная твердеющая сталь"/>
+	<string id="%836%" value="BS 527M17"/>
+	<string id="%837%" value="BS 525A60"/>
+	<string id="%838%" value="BS 708A25"/>
+	<string id="%839%" value="BS 708A37"/>
+	<string id="%840%" value="BS 708M40"/>
+	<string id="%841%" value="BS 735A51"/>
+	<string id="%842%" value="BS 905M39"/>
+	<string id="%843%" value="BS 722M22"/>
+	<string id="%844%" value="BS 722M24"/>
+	<string id="%845%" value="BS 815M17"/>
+	<string id="%846%" value="BS 820M17"/>
+	<string id="%847%" value="BS 817M40"/>
+	<string id="%848%" value="BS 403S17"/>
+	<string id="%849%" value="BS 410S21"/>
+	<string id="%850%" value="BS 420S37"/>
+	<string id="%851%" value="BS 430S17"/>
+	<string id="%852%" value="BS 401S45"/>
+	<string id="%853%" value="BS 431S29"/>
+	<string id="%854%" value="BS 304S15"/>
+	<string id="%855%" value="BS 303S31"/>
+	<string id="%856%" value="BS 321S31"/>
+	<string id="%857%" value="BS 304S11"/>
+	<string id="%858%" value="BS 310S31"/>
+	<string id="%859%" value="BS 316S11"/>
+	<string id="%860%" value="BS 316S31"/>
+	<string id="%861%" value="BS 349S54"/>
+	<string id="%862%" value="CSN 10370"/>
+	<string id="%863%" value="CSN 11110"/>
+	<string id="%864%" value="CSN 11120"/>
+	<string id="%865%" value="CSN 11140"/>
+	<string id="%866%" value="CSN 11301"/>
+	<string id="%867%" value="CSN 11305"/>
+	<string id="%868%" value="CSN 11321"/>
+	<string id="%869%" value="CSN 11343"/>
+	<string id="%870%" value="CSN 11353"/>
+	<string id="%871%" value="CSN 11368"/>
+	<string id="%872%" value="CSN 11373"/>
+	<string id="%873%" value="CSN 11378"/>
+	<string id="%874%" value="CSN 11418"/>
+	<string id="%875%" value="CSN 11423"/>
+	<string id="%876%" value="CSN 11448"/>
+	<string id="%877%" value="CSN 11453"/>
+	<string id="%878%" value="CSN 11500"/>
+	<string id="%879%" value="CSN 11503"/>
+	<string id="%880%" value="CSN 11523"/>
+	<string id="%881%" value="CSN 11600"/>
+	<string id="%882%" value="CSN 11700"/>
+	<string id="%883%" value="CSN 12010"/>
+	<string id="%884%" value="CSN 12020"/>
+	<string id="%885%" value="CSN 12024"/>
+	<string id="%886%" value="CSN 12030"/>
+	<string id="%887%" value="CSN 12031"/>
+	<string id="%888%" value="CSN 12040"/>
+	<string id="%889%" value="CSN 12041"/>
+	<string id="%890%" value="CSN 12050"/>
+	<string id="%891%" value="CSN 12051"/>
+	<string id="%892%" value="CSN 12060"/>
+	<string id="%893%" value="CSN 12061"/>
+	<string id="%894%" value="CSN 12071"/>
+	<string id="%895%" value="CSN 13030"/>
+	<string id="%896%" value="CSN 13141"/>
+	<string id="%897%" value="CSN 13180"/>
+	<string id="%898%" value="CSN 13220"/>
+	<string id="%899%" value="Термическая сварочная сталь"/>
+	<string id="%900%" value="CSN 13221"/>
+	<string id="%901%" value="CSN 13240"/>
+	<string id="%902%" value="CSN 13242"/>
+	<string id="%903%" value="CSN 13251"/>
+	<string id="%904%" value="CSN 13260"/>
+	<string id="%905%" value="Cталь"/>
+	<string id="%906%" value="CSN 13270"/>
+	<string id="%907%" value="CSN 14120"/>
+	<string id="%908%" value="CSN 14140"/>
+	<string id="%909%" value="Закалочная нитроцементированная и цианированная твердеющая сталь"/>
+	<string id="%910%" value="CSN 14141"/>
+	<string id="%911%" value="CSN 14146"/>
+	<string id="%912%" value="CSN 14148"/>
+	<string id="%913%" value="CSN 14220"/>
+	<string id="%914%" value="CSN 14221"/>
+	<string id="%915%" value="CSN 14223"/>
+	<string id="%916%" value="CSN 14230"/>
+	<string id="%917%" value="CSN 14260"/>
+	<string id="%918%" value="CSN 14262"/>
+	<string id="%919%" value="CSN 15020"/>
+	<string id="%920%" value="CSN 15121"/>
+	<string id="%921%" value="CSN 15127"/>
+	<string id="%922%" value="CSN 15130"/>
+	<string id="%923%" value="CSN 15131"/>
+	<string id="%924%" value="CSN 15141"/>
+	<string id="%925%" value="CSN 15142"/>
+	<string id="%926%" value="CSN 15217"/>
+	<string id="%927%" value="CSN 15222"/>
+	<string id="%928%" value="Высокопрочная сварочная сталь"/>
+	<string id="%929%" value="CSN 15230"/>
+	<string id="%930%" value="Закалочная азотированная сталь"/>
+	<string id="%931%" value="CSN 15241"/>
+	<string id="%932%" value="CSN 15260"/>
+	<string id="%933%" value="CSN 15313"/>
+	<string id="%934%" value="CSN 15330"/>
+	<string id="%935%" value="CSN 15340"/>
+	<string id="%936%" value="CSN 15432"/>
+	<string id="%937%" value="CSN 16220"/>
+	<string id="%938%" value="CSN 16223"/>
+	<string id="%939%" value="CSN 16321"/>
+	<string id="%940%" value="CSN 16326"/>
+	<string id="%941%" value="CSN 16329"/>
+	<string id="%942%" value="CSN 16343"/>
+	<string id="%943%" value="CSN 16420"/>
+	<string id="%944%" value="CSN 16430"/>
+	<string id="%945%" value="CSN 16527"/>
+	<string id="%946%" value="CSN 16640"/>
+	<string id="%947%" value="CSN 17020"/>
+	<string id="%948%" value="CSN 17021"/>
+	<string id="%949%" value="CSN 17022"/>
+	<string id="%950%" value="CSN 17023"/>
+	<string id="%951%" value="CSN 17040"/>
+	<string id="%952%" value="CSN 17041"/>
+	<string id="%953%" value="CSN 17113"/>
+	<string id="%954%" value="CSN 17115"/>
+	<string id="%955%" value="CSN 17125"/>
+	<string id="%956%" value="CSN 17145"/>
+	<string id="%957%" value="CSN 17150"/>
+	<string id="%958%" value="CSN 17240"/>
+	<string id="%959%" value="CSN 17241"/>
+	<string id="%960%" value="CSN 17243"/>
+	<string id="%961%" value="CSN 17246"/>
+	<string id="%962%" value="CSN 17247"/>
+	<string id="%963%" value="CSN 17248"/>
+	<string id="%964%" value="CSN 17249"/>
+	<string id="%965%" value="CSN 17251"/>
+	<string id="%966%" value="CSN 17253"/>
+	<string id="%967%" value="CSN 17255"/>
+	<string id="%968%" value="CSN 17256"/>
+	<string id="%969%" value="CSN 17259"/>
+	<string id="%970%" value="CSN 17265"/>
+	<string id="%971%" value="CSN 17346"/>
+	<string id="%972%" value="CSN 17348"/>
+	<string id="%973%" value="CSN 17359"/>
+	<string id="%974%" value="CSN 17460"/>
+	<string id="%975%" value="CSN 17465"/>
+	<string id="%976%" value="CSN 17501"/>
+	<string id="%977%" value="CSN 422303"/>
+	<string id="%978%" value="CSN 422304"/>
+	<string id="%979%" value="CSN 422305"/>
+	<string id="%980%" value="CSN 422306"/>
+	<string id="%981%" value="CSN 422307"/>
+	<string id="%982%" value="CSN 422308"/>
+	<string id="%983%" value="CSN 422410"/>
+	<string id="%984%" value="CSN 422415"/>
+	<string id="%985%" value="CSN 422420"/>
+	<string id="%986%" value="CSN 422425"/>
+	<string id="%987%" value="CSN 422430"/>
+	<string id="%988%" value="CSN 422435"/>
+	<string id="%989%" value="CSN 422532"/>
+	<string id="%990%" value="CSN 422533"/>
+	<string id="%991%" value="CSN 422536"/>
+	<string id="%992%" value="CSN 422540"/>
+	<string id="%993%" value="CSN 422545"/>
+	<string id="%994%" value="CSN 422555"/>
+	<string id="%995%" value="CSN 422630"/>
+	<string id="%996%" value="Углеродистая сталь"/>
+	<string id="%997%" value="CSN 422640"/>
+	<string id="%998%" value="CSN 422650"/>
+	<string id="%999%" value="CSN 242660"/>
+	<string id="%1000%" value="CSN 422670"/>
+	<string id="%1001%" value="CSN 422709"/>
+	<string id="%1002%" value="Легированная сталь"/>
+	<string id="%1003%" value="CSN 422712"/>
+	<string id="%1004%" value="CSN 422713"/>
+	<string id="%1005%" value="CSN 422719"/>
+	<string id="%1006%" value="CSN 422724"/>
+	<string id="%1007%" value="CSN 422735"/>
+	<string id="%1008%" value="CSN 422739"/>
+	<string id="%1009%" value="CSN 422753"/>
+	<string id="%1010%" value="CSN 422906"/>
+	<string id="%1011%" value="Коррозийно-стойкая литая сталь"/>
+	<string id="%1012%" value="CSN 422912"/>
+	<string id="%1013%" value="Жаропрочная литая сталь"/>
+	<string id="%1014%" value="CSN 423013"/>
+	<string id="%1015%" value="Оловянистая бронза, ковкая CuSn4"/>
+	<string id="%1016%" value="CSN 423016"/>
+	<string id="%1017%" value="Оловянистая бронза, ковкая CuSn4"/>
+	<string id="%1018%" value="CSN 423018"/>
+	<string id="%1019%" value="Оловянистая бронза, ковкая CuSn4"/>
+	<string id="%1020%" value="CSN 423042"/>
+	<string id="%1021%" value="Алюминиевая бронза, ковкая CuAl5"/>
+	<string id="%1022%" value="CSN 423044"/>
+	<string id="%1023%" value="Алюминиевая бронза, ковкая CuAl9Mn2"/>
+	<string id="%1024%" value="CSN 423045"/>
+	<string id="%1025%" value="Алюминиевая бронза, ковкая CuAl9Fe3"/>
+	<string id="%1026%" value="CSN 423047"/>
+	<string id="%1027%" value="Алюминиевая бронза, ковкая CuAl10Fe4Ni4"/>
+	<string id="%1028%" value="CSN 423115"/>
+	<string id="%1029%" value="Оловянистая бронза, литая CuSn5"/>
+	<string id="%1030%" value="CSN 423119"/>
+	<string id="%1031%" value="Оловянистая бронза, литая CuSn10"/>
+	<string id="%1032%" value="CSN 423123"/>
+	<string id="%1033%" value="Оловянистая бронза, литая CuSn12"/>
+	<string id="%1034%" value="CSN 423135"/>
+	<string id="%1035%" value="Красная бронза, литая CuSn5Zn5Pb5&quot;&quot; CuSn5Zn5Pb5"/>
+	<string id="%1036%" value="CSN 423137"/>
+	<string id="%1037%" value="Красная бронза, литая CuSn8Zn6Pb3"/>
+	<string id="%1038%" value="CSN 423145"/>
+	<string id="%1039%" value="Алюминиевая бронза, литая CuAl9Fe3"/>
+	<string id="%1040%" value="CSN 423147"/>
+	<string id="%1041%" value="Алюминиевая бронза, литая CuAl10Fe4Ni4"/>
+	<string id="%1042%" value="CSN 423200"/>
+	<string id="%1043%" value="Латунь, ковкая CuZn4"/>
+	<string id="%1044%" value="CSN 423201"/>
+	<string id="%1045%" value="Латунь, ковкая CuZn10"/>
+	<string id="%1046%" value="CSN 423202"/>
+	<string id="%1047%" value="Латунь, ковкая CuZn15"/>
+	<string id="%1048%" value="CSN 423203"/>
+	<string id="%1049%" value="Латунь, ковкая CuZn20"/>
+	<string id="%1050%" value="CSN 423210"/>
+	<string id="%1051%" value="Латунь, ковкая CuZn30"/>
+	<string id="%1052%" value="CSN 423212"/>
+	<string id="%1053%" value="Латунь, ковкая CuZn32"/>
+	<string id="%1054%" value="CSN 423213"/>
+	<string id="%1055%" value="Латунь, ковкая CuZn37"/>
+	<string id="%1056%" value="CSN 423214"/>
+	<string id="%1057%" value="Латунь, ковкая CuZn32Pb1"/>
+	<string id="%1058%" value="CSN 423226"/>
+	<string id="%1059%" value="CSN 423231"/>
+	<string id="%1060%" value="Латунь, ковкая CuZn40Mn3Al1"/>
+	<string id="%1061%" value="CSN 423256"/>
+	<string id="%1062%" value="Латунь, ковкая CuNi15Zn21"/>
+	<string id="%1063%" value="CSN 423303"/>
+	<string id="%1064%" value="Латунь, литая CuZn17Si3"/>
+	<string id="%1065%" value="CSN 423311"/>
+	<string id="%1066%" value="Латунь, литая CuZn35AlFe3Mn2"/>
+	<string id="%1067%" value="CSN 423319"/>
+	<string id="%1068%" value="Латунь, литая CuZn40"/>
+	<string id="%1069%" value="CSN 423320"/>
+	<string id="%1070%" value="Латунь, литая CuZn38Fe1Al1Mn1"/>
+	<string id="%1071%" value="CSN 424003"/>
+	<string id="%1072%" value="Алюминий Al 99.7"/>
+	<string id="%1073%" value="CSN 424201"/>
+	<string id="%1074%" value="Алюминиевый сплав, ковкий AlCu4Mg"/>
+	<string id="%1075%" value="CSN 424203"/>
+	<string id="%1076%" value="CSN 424204"/>
+	<string id="%1077%" value="Алюминиевый сплав, ковкий AlCu2Mg"/>
+	<string id="%1078%" value="CSN 424250"/>
+	<string id="%1079%" value="Алюминиевый сплав, ковкий AlCu4Mg1Mn1"/>
+	<string id="%1080%" value="CSN 424315"/>
+	<string id="%1081%" value="Алюминиевый сплав, литой AlCu4Ni2Mg2"/>
+	<string id="%1082%" value="CSN 424330"/>
+	<string id="%1083%" value="Алюминиевый сплав, литой AlSi12Mn"/>
+	<string id="%1084%" value="CSN 424331"/>
+	<string id="%1085%" value="Алюминиевый сплав, литой AlSi10MgMn"/>
+	<string id="%1086%" value="CSN 424332"/>
+	<string id="%1087%" value="Алюминиевый сплав, литой AlSi7Mg(Fe)"/>
+	<string id="%1088%" value="CSN 424336"/>
+	<string id="%1089%" value="Алюминиевый сплав, литой AlSi12CuMgNi"/>
+	<string id="%1090%" value="CSN 424339"/>
+	<string id="%1091%" value="Алюминиевый сплав, литой AlSi8Cu2Mn"/>
+	<string id="%1092%" value="CSN 424357"/>
+	<string id="%1093%" value="Алюминиевый сплав, литой AlSi5Cu4Zn"/>
+	<string id="%1094%" value="CSN 424401"/>
+	<string id="%1095%" value="Алюминиевый сплав, ковкий AlMgSi1"/>
+	<string id="%1096%" value="CSN 424413"/>
+	<string id="%1097%" value="Алюминиевый сплав, ковкий AlMg3"/>
+	<string id="%1098%" value="CSN 424415"/>
+	<string id="%1099%" value="Алюминиевый сплав, ковкий AlMg5"/>
+	<string id="%1100%" value="CSN 424432"/>
+	<string id="%1101%" value="Алюминиевый сплав, ковкий AlMn1"/>
+	<string id="%1102%" value="CSN 424441"/>
+	<string id="%1103%" value="CSN 424515"/>
+	<string id="%1104%" value="Алюминиевый сплав, литой AlMg5Si1Mn"/>
+	<string id="%1105%" value="CSN 424519"/>
+	<string id="%1106%" value="Алюминиевый сплав, литой AlMg9SiCa"/>
+	<string id="%1107%" value="MgAl3Zn1"/>
+	<string id="%1108%" value="Магниевый сплав, ковкий MgAl3Zn1"/>
+	<string id="%1109%" value="MgAl9Zn2Mn"/>
+	<string id="%1110%" value="Магниевый сплав, ковкий MgAl9Zn2Mn"/>
+	<string id="%1111%" value="MgMn2Ce"/>
+	<string id="%1112%" value="Магниевый сплав, ковкий MgMn2Ce"/>
+	<string id="%1113%" value="MgZn3Zr1"/>
+	<string id="%1114%" value="Магниевый сплав, ковкий MgZn3Zr1"/>
+	<string id="%1115%" value="Магниевый сплав, литой MgAl3Zn1"/>
+	<string id="%1116%" value="MgAl9ZnMn"/>
+	<string id="%1117%" value="Магниевый сплав, литой MgAl9ZnMn"/>
+	<string id="%1118%" value="Магниевый сплав, литой MgMn2"/>
+	<string id="%1119%" value="MgSi2"/>
+	<string id="%1120%" value="Магниевый сплав, литой MgSi2"/>
+	<string id="%1121%" value="Сталь 10 ГОСТ 1050-88"/>
+	<string id="%1122%" value="Сталь 15 ГОСТ 1050-88"/>
+	<string id="%1123%" value="Сталь 20 ГОСТ 1050-88"/>
+	<string id="%1124%" value="Сталь С235 ГОСТ 27772-88"/>
+	<string id="%1125%" value="Сталь С245 ГОСТ 27772-88"/>
+	<string id="%1126%" value="Сталь С255 ГОСТ 27772-88"/>
+	<string id="%1127%" value="Сталь С285 ГОСТ 27772-88"/>
+	<string id="%1128%" value="Сталь С345 ГОСТ 27772-88"/>
+	<string id="%1129%" value="Сталь С375 ГОСТ 27772-88"/>
+	<string id="%1130%" value="Сталь 25 ГОСТ 1050-88"/>
+	<string id="%1131%" value="Сталь 30 ГОСТ 1050-88"/>
+	<string id="%1132%" value="Сталь 35 ГОСТ 1050-88"/>
+	<string id="%1133%" value="Сталь 40 ГОСТ 1050-88"/>
+	<string id="%1134%" value="Сталь 45 ГОСТ 1050-88"/>
+	<string id="%1135%" value="Сталь 50 ГОСТ 1050-88"/>
+	<string id="%1136%" value="Сталь 55 ГОСТ 1050-88"/>
+	<string id="%1137%" value="Сталь 60 ГОСТ 1050-88"/>
+	<string id="%1138%" value="Сталь 50ХФА ГОСТ 14959-79"/>
+	<string id="%1139%" value="Сталь 15Х ГОСТ 4543-71"/>
+	<string id="%1140%" value="Сталь 38ХА ГОСТ 4543-71"/>
+	<string id="%1141%" value="Сталь 40Х ГОСТ 4543-71"/>
+	<string id="%1142%" value="Сталь 18ХГ ГОСТ 4543-71"/>
+	<string id="%1143%" value="Сталь 18ХГТ ГОСТ 4543-71"/>
+	<string id="%1144%" value="Сталь 55С2 ГОСТ 14959-79"/>
+	<string id="%1145%" value="Сталь 50ХГА ГОСТ 14959-79"/>
+	<string id="%1146%" value="Сталь 40ХФА ГОСТ 4543-71"/>
+	<string id="%1147%" value="Сталь 50ХГФА ГОСТ 14959-79"/>
+	<string id="%1148%" value="Сталь 38Х2МЮА ГОСТ 4543-71"/>
+	<string id="%1149%" value="Сталь 12ХН3А ГОСТ 4543-71"/>
+	<string id="%1150%" value="Сталь 12Х2Н4А ГОСТ 4543-71"/>
+	<string id="%1151%" value="NF S250"/>
+	<string id="%1152%" value="NF 13MF4"/>
+	<string id="%1153%" value="NF 35MF6"/>
+	<string id="%1154%" value="NF XE"/>
+	<string id="%1155%" value="NF ZE"/>
+	<string id="%1156%" value="NF ZES"/>
+	<string id="%1157%" value="NF A34-2"/>
+	<string id="%1158%" value="NF A37CP"/>
+	<string id="%1159%" value="NF A42CP"/>
+	<string id="%1160%" value="NF E24-2"/>
+	<string id="%1161%" value="NF E24-3"/>
+	<string id="%1162%" value="NF E28-2"/>
+	<string id="%1163%" value="NF E28-4"/>
+	<string id="%1164%" value="NF A50-2"/>
+	<string id="%1165%" value="NF E36-3"/>
+	<string id="%1166%" value="NF E36-4"/>
+	<string id="%1167%" value="NF A60-2"/>
+	<string id="%1168%" value="NF A70-2"/>
+	<string id="%1169%" value="NF XC10"/>
+	<string id="%1170%" value="NF XC12"/>
+	<string id="%1171%" value="NF XC18"/>
+	<string id="%1172%" value="NF XC25"/>
+	<string id="%1173%" value="NF XC32"/>
+	<string id="%1174%" value="NF XC38H1"/>
+	<string id="%1175%" value="NF XC42TS"/>
+	<string id="%1176%" value="NF XC42H1"/>
+	<string id="%1177%" value="NF XC48H1"/>
+	<string id="%1178%" value="NF XC55H1"/>
+	<string id="%1179%" value="NF 52M4TS"/>
+	<string id="%1180%" value="NF A48CP"/>
+	<string id="%1181%" value="NF 35M5"/>
+	<string id="%1182%" value="NF 51S7"/>
+	<string id="%1183%" value="NF 32C4"/>
+	<string id="%1184%" value="NF 38C4"/>
+	<string id="%1185%" value="NF 42C4"/>
+	<string id="%1186%" value="NF 35CD4TS"/>
+	<string id="%1187%" value="NF 42C4TS"/>
+	<string id="%1188%" value="NF 16MC5"/>
+	<string id="%1189%" value="NF 20MC5"/>
+	<string id="%1190%" value="NF 55C3"/>
+	<string id="%1191%" value="NF 15D3"/>
+	<string id="%1192%" value="NF 15CD405"/>
+	<string id="%1193%" value="NF 25CD4"/>
+	<string id="%1194%" value="NF 34CD4"/>
+	<string id="%1195%" value="NF 42CD4"/>
+	<string id="%1196%" value="NF 42CD4TS"/>
+	<string id="%1197%" value="NF 50CV4"/>
+	<string id="%1198%" value="NF 40CAD612"/>
+	<string id="%1199%" value="NF 30CD12"/>
+	<string id="%1200%" value="NF 16NC6"/>
+	<string id="%1201%" value="NF 18NCD6"/>
+	<string id="%1202%" value="NF 30CND8"/>
+	<string id="%1203%" value="NF Z6C13"/>
+	<string id="%1204%" value="NF Z12C13"/>
+	<string id="%1205%" value="NF Z20C13"/>
+	<string id="%1206%" value="NF Z30C13"/>
+	<string id="%1207%" value="NF Z8C17"/>
+	<string id="%1208%" value="NF Z8CA7"/>
+	<string id="%1209%" value="NF Z45CS9"/>
+	<string id="%1210%" value="NF Z6CA13"/>
+	<string id="%1211%" value="NF Z10C13"/>
+	<string id="%1212%" value="NF Z85CDMV1802"/>
+	<string id="%1213%" value="NF Z6CN1809"/>
+	<string id="%1214%" value="NF Z6CNT1810"/>
+	<string id="%1215%" value="NF Z6CNT1812"/>
+	<string id="%1216%" value="NF Z2CN1810"/>
+	<string id="%1217%" value="NF Z15CN2413"/>
+	<string id="%1218%" value="NF Z12NCS3516"/>
+	<string id="%1219%" value="NF Z12CN2520"/>
+	<string id="%1220%" value="NF Z12CNS2520"/>
+	<string id="%1221%" value="NF Z6CND1711"/>
+	<string id="%1222%" value="NF Z6CNDT1712"/>
+	<string id="%1223%" value="NF Z2CND1712"/>
+	<string id="%1224%" value="NF Z2CND1713"/>
+	<string id="%1225%" value="NF Z6CND1712"/>
+	<string id="%1226%" value="NF Z52CMN2109"/>
+	<string id="%1227%" value="JIS SUM22"/>
+	<string id="%1228%" value="JIS SS330"/>
+	<string id="%1229%" value="JIS STKM13B"/>
+	<string id="%1230%" value="JIS STKM12A"/>
+	<string id="%1231%" value="JIS STKM12C"/>
+	<string id="%1232%" value="JIS SS400"/>
+	<string id="%1233%" value="JIS SS490"/>
+	<string id="%1234%" value="JIS SM52OC"/>
+	<string id="%1235%" value="JIS SM52OB"/>
+	<string id="%1236%" value="JIS STKM16A"/>
+	<string id="%1237%" value="JIS STKM16C"/>
+	<string id="%1238%" value="JIS SM570"/>
+	<string id="%1239%" value="JIS S10C"/>
+	<string id="%1240%" value="JIS S15C"/>
+	<string id="%1241%" value="JIS S22C"/>
+	<string id="%1242%" value="JIS S25C"/>
+	<string id="%1243%" value="JIS S30C"/>
+	<string id="%1244%" value="JIS S35C"/>
+	<string id="%1245%" value="JIS S40C"/>
+	<string id="%1246%" value="JIS S45C"/>
+	<string id="%1247%" value="JIS S50C"/>
+	<string id="%1248%" value="JIS S55C"/>
+	<string id="%1249%" value="JIS S58C"/>
+	<string id="%1250%" value="JIS SMn433"/>
+	<string id="%1251%" value="JIS SCr430"/>
+	<string id="%1252%" value="JIS SCr435"/>
+	<string id="%1253%" value="JIS SCr440"/>
+	<string id="%1254%" value="JIS SMnC420"/>
+	<string id="%1255%" value="JIS SUP9"/>
+	<string id="%1256%" value="JIS SCM415"/>
+	<string id="%1257%" value="JIS SCM420"/>
+	<string id="%1258%" value="JIS SCM430"/>
+	<string id="%1259%" value="JIS SCM435"/>
+	<string id="%1260%" value="JIS SCM440"/>
+	<string id="%1261%" value="JIS SCM445"/>
+	<string id="%1262%" value="JIS SUP10"/>
+	<string id="%1263%" value="JIS SNC420"/>
+	<string id="%1264%" value="JIS SNC815"/>
+	<string id="%1265%" value="JIS SNCM815"/>
+	<string id="%1266%" value="JIS SNCM447"/>
+	<string id="%1267%" value="JIS SNCM630"/>
+	<string id="%1268%" value="JIS SUS403"/>
+	<string id="%1269%" value="JIS SUS405"/>
+	<string id="%1270%" value="JIS SUS410"/>
+	<string id="%1271%" value="JIS SUS420J1"/>
+	<string id="%1272%" value="JIS SUS420J2"/>
+	<string id="%1273%" value="JIS SUS430"/>
+	<string id="%1274%" value="JIS SUS431"/>
+	<string id="%1275%" value="JIS SUS304"/>
+	<string id="%1276%" value="JIS SUS303"/>
+	<string id="%1277%" value="JIS SUS316"/>
+	<string id="%1278%" value="JIS SUS316L"/>
+	<string id="%1279%" value="JIS SUS321"/>
+	<string id="%1280%" value="JIS SUS304L"/>
+	<string id="%1281%" value="JIS SUS3093"/>
+	<string id="%1282%" value="JIS SUH1"/>
+	<string id="%1283%" value="JIS SUH330"/>
+	<string id="%1284%" value="JIS SUH310"/>
+	<string id="%1285%" value="JIS SUH35"/>
+	<string id="%1286%" value="ul"/>
+	<string id="%1287%" value="%"/>
+	<string id="%1288%" value="Сталь 08 ГОСТ 1050-88"/>
+	<string id="%1289%" value="Сталь Ст3кп ГОСТ 380-94"/>
+	<string id="%1290%" value="Сталь СТ3ПС ГОСТ 380-94"/>
+	<string id="%1291%" value="Сталь СТ3ПС ГОСТ 380-94"/>
+	<string id="%1292%" value="Сталь Ст4кп ГОСТ 380-94"/>
+	<string id="%1293%" value="Сталь Ст4пс ГОСТ 380-94"/>
+	<string id="%1294%" value="Сталь Ст4сп ГОСТ 380-94"/>
+	<string id="%1295%" value="Сталь Ст5пс ГОСТ 380-94"/>
+	<string id="%1296%" value="Сталь Ст5сп ГОСТ 380-94"/>
+	<string id="%1297%" value="Сталь Ст6пс ГОСТ 380-94"/>
+	<string id="%1298%" value="Сталь Ст6сп ГОСТ 380-94"/>
+	<string id="%1299%" value="Сталь 20Г ГОСТ 1050-88"/>
+	<string id="%1300%" value="Сталь 30Г ГОСТ 1050-88"/>
+	<string id="%1301%" value="Сталь 40Г ГОСТ 1050-88"/>
+	<string id="%1302%" value="Сталь 50Г ГОСТ 1050-88"/>
+	<string id="%1303%" value="Сталь 65Г ГОСТ 1050-88"/>
+	<string id="%1304%" value="Сталь A11 ГОСТ 1414-75"/>
+	<string id="%1305%" value="Сталь A12 ГОСТ 1414-75"/>
+	<string id="%1306%" value="Сталь А20 ГОСТ 1414-75"/>
+	<string id="%1307%" value="Сталь А30 ГОСТ 1414-75"/>
+	<string id="%1308%" value="Сталь А35 ГОСТ 1414-75"/>
+	<string id="%1309%" value="Сталь 20Х ГОСТ 4543-71"/>
+	<string id="%1310%" value="Сталь 30Х ГОСТ 4543-71"/>
+	<string id="%1311%" value="Сталь 35Х ГОСТ 4543-71"/>
+	<string id="%1312%" value="Сталь 45Х ГОСТ 4543-71"/>
+	<string id="%1313%" value="Сталь 50Х ГОСТ 4543-71"/>
+	<string id="%1314%" value="Сталь 10Г2 ГОСТ 4543-71"/>
+	<string id="%1315%" value="Сталь 35Г2 ГОСТ 4543-71"/>
+	<string id="%1316%" value="Сталь 40Г2 ГОСТ 4543-71"/>
+	<string id="%1317%" value="Сталь 45Г2 ГОСТ 4543-71"/>
+	<string id="%1318%" value="Сталь 33ХС ГОСТ 4543-71"/>
+	<string id="%1319%" value="Сталь 38ХС ГОСТ 4543-71"/>
+	<string id="%1320%" value="Сталь 30ХМА ГОСТ 4543-71"/>
+	<string id="%1321%" value="Сталь 30ХМ ГОСТ 4543-71"/>
+	<string id="%1322%" value="Сталь 35ХМ ГОСТ 4543-71"/>
+	<string id="%1323%" value="Сталь 30ХГТ ГОСТ 4543-71"/>
+	<string id="%1324%" value="Сталь 20ХГСА ГОСТ 4543-71"/>
+	<string id="%1325%" value="Сталь 20ХГНР ГОСТ 4543-71"/>
+	<string id="%1326%" value="Сталь 30ХГС ГОСТ 4543-71"/>
+	<string id="%1327%" value="Сталь 20ХН ГОСТ 4543-71"/>
+	<string id="%1328%" value="Сталь 40ХН ГОСТ 4543-71"/>
+	<string id="%1329%" value="Сталь 45ХН ГОСТ 4543-71"/>
+	<string id="%1330%" value="Сталь 50ХН ГОСТ 4543-71"/>
+	<string id="%1331%" value="Сталь 30ХН3А ГОСТ 4543-71"/>
+	<string id="%1332%" value="Сталь 12ХН2 ГОСТ 4543-71"/>
+	<string id="%1333%" value="Сталь 20Х2Н4А ГОСТ 4543-71"/>
+	<string id="%1334%" value="Сталь 30ХГСА ГОСТ 4543-71"/>
+	<string id="%1335%" value="Сталь 38Х210 ГОСТ 4543-71"/>
+	<string id="%1336%" value="Сталь 12МХ ГОСТ 20072-74"/>
+	<string id="%1337%" value="Сталь 12Х1МФ ГОСТ 20072-74"/>
+	<string id="%1338%" value="Сталь 20Х1М1Ф1ТР ГОСТ 20072-74"/>
+	<string id="%1339%" value="Сталь 20Х1М1Ф1БР ГОСТ 20072-74"/>
+	<string id="%1340%" value="Сталь 25Х1МФ ГОСТ 20072-74"/>
+	<string id="%1341%" value="Сталь 18Х3МВ ГОСТ 20072-74"/>
+	<string id="%1342%" value="Сталь 20Х3МВФ ГОСТ 20072-74"/>
+	<string id="%1343%" value="Сталь 15Х5 ГОСТ 20072-74"/>
+	<string id="%1344%" value="Сталь 15Х5М ГОСТ 20072-74"/>
+	<string id="%1345%" value="Сталь 15Х5ВФ ГОСТ 20072-74"/>
+	<string id="%1346%" value="Сталь 12Х8ВФ ГОСТ 20072-74"/>
+	<string id="%1347%" value="Сталь 13Х14Н3В2ФР ГОСТ 5949-75"/>
+	<string id="%1348%" value="Сталь 10Х11Н23Т3МР ГОСТ 5949-75"/>
+	<string id="%1349%" value="Сталь 12Х18Н10Т ГОСТ 5949-75"/>
+	<string id="%1350%" value="Сталь 12Х18Н9Т ГОСТ 5949-75"/>
+	<string id="%1351%" value="Сталь 12Х18Н12Т ГОСТ 5949-75"/>
+	<string id="%1352%" value="Сталь 12Х25Н16Г7АР ГОСТ 5949-75"/>
+	<string id="%1353%" value="Сталь 20 ГОСТ 1577-93"/>
+	<string id="%1354%" value="Сталь 25 ГОСТ 1577-93"/>
+	<string id="%1355%" value="Сталь 30 ГОСТ 1577-93"/>
+	<string id="%1356%" value="Сталь 35 ГОСТ 1577-93"/>
+	<string id="%1357%" value="Сталь 40 ГОСТ 1577-93"/>
+	<string id="%1358%" value="Сталь 45 ГОСТ 1577-93"/>
+	<string id="%1359%" value="Сталь 50 ГОСТ 1577-93"/>
+	<string id="%1360%" value="Сталь 55 ГОСТ 1577-93"/>
+	<string id="%1361%" value="Сталь 60 ГОСТ 1577-93"/>
+	<string id="%1362%" value="Сталь 30Х ГОСТ 1577-93"/>
+	<string id="%1363%" value="Сталь 38ХА ГОСТ 1577-93"/>
+	<string id="%1364%" value="Сталь 40Х ГОСТ 1577-93"/>
+	<string id="%1365%" value="Сталь 15Л ГОСТ 977-88"/>
+	<string id="%1366%" value="Сталь 20Л ГОСТ 977-88"/>
+	<string id="%1367%" value="Сталь 25Л ГОСТ 977-88"/>
+	<string id="%1368%" value="Сталь 30Л ГОСТ 977-88"/>
+	<string id="%1369%" value="Сталь 35Л ГОСТ 977-88"/>
+	<string id="%1370%" value="Сталь 40Л ГОСТ 977-88"/>
+	<string id="%1371%" value="Сталь 45Л ГОСТ 977-88"/>
+	<string id="%1372%" value="Сталь 50Л ГОСТ 977-88"/>
+	<string id="%1373%" value="Сталь 20ГЛ ГОСТ 977-88"/>
+	<string id="%1374%" value="Сталь 35ГЛ ГОСТ 977-88"/>
+	<string id="%1375%" value="Сталь 20ГСЛ ГОСТ 977-88"/>
+	<string id="%1376%" value="Сталь 30ГСЛ ГОСТ 977-88"/>
+	<string id="%1377%" value="Сталь 20Г1ФЛ ГОСТ 977-88"/>
+	<string id="%1378%" value="Сталь 20ФЛ ГОСТ 977-88"/>
+	<string id="%1379%" value="Сталь 30ХГСФЛ ГОСТ 977-88"/>
+	<string id="%1380%" value="Сталь 45ФЛ ГОСТ 977-88"/>
+	<string id="%1381%" value="Сталь 20ХМЛ ГОСТ 977-88"/>
+	<string id="%1382%" value="Сталь 20ХМФЛ ГОСТ 977-88"/>
+	<string id="%1383%" value="Сталь 20ГНМФЛ ГОСТ 977-88"/>
+	<string id="%1384%" value="Сталь 35ХМЛ ГОСТ 977-88"/>
+	<string id="%1385%" value="Сталь 30ХНМЛ ГОСТ 977-88"/>
+	<string id="%1386%" value="Сталь 35ХГСЛ ГОСТ 977-88"/>
+	<string id="%1387%" value="Сталь 20ДХЛ ГОСТ 977-88"/>
+	<string id="%1388%" value="Сталь 08ГДНФЛ ГОСТ 977-88"/>
+	<string id="%1389%" value="Сталь 13ХНДФТЛ ГОСТ 977-88"/>
+	<string id="%1390%" value="Сталь 12ДН2ФЛ ГОСТ 977-88"/>
+	<string id="%1391%" value="Сталь 32Х06Л ГОСТ 977-88"/>
+	<string id="%1392%" value="Сталь 35НГМЛ ГОСТ 977-88"/>
+	<string id="%1393%" value="Сталь 12ДХН1МФЛ ГОСТ 977-88"/>
+	<string id="%1394%" value="Сталь 23ХГС2МФЛ ГОСТ 977-88"/>
+	<string id="%1395%" value="Сталь 12Х7Г3СЛ ГОСТ 977-88"/>
+	<string id="%1396%" value="Сталь 25Х2ГНМФЛ1 ГОСТ 977-88"/>
+	<string id="%1397%" value="Сталь 25Х2ГНМФЛ2 ГОСТ 977-88"/>
+	<string id="%1398%" value="Сталь 27Х5ГСМЛ ГОСТ 977-88"/>
+	<string id="%1399%" value="Сталь 30Х3С3ГМЛ ГОСТ 977-88"/>
+	<string id="%1400%" value="Сталь 03Н12Х5М3ТЛ ГОСТ 977-88"/>
+	<string id="%1401%" value="Сталь 03Н12Х5М3TЮЛ ГОСТ 977-88"/>
+	<string id="%1402%" value="Сталь 40ХЛ ГОСТ 977-88"/>
+	<string id="%1403%" value="Чугун серый 10 ГОСТ 1412-85"/>
+	<string id="%1404%" value="Чугун серый 15 ГОСТ 1412-85"/>
+	<string id="%1405%" value="Чугун серый 18 ГОСТ 1412-85"/>
+	<string id="%1406%" value="Чугун серый 20 ГОСТ 1412-85"/>
+	<string id="%1407%" value="Чугун серый 21 ГОСТ 1412-85"/>
+	<string id="%1408%" value="Чугун серый 24 ГОСТ 1412-85"/>
+	<string id="%1409%" value="Чугун серый 25 ГОСТ 1412-85"/>
+	<string id="%1410%" value="Чугун серый 30 ГОСТ 1412-85"/>
+	<string id="%1411%" value="Чугун серый 35 ГОСТ 1412-85"/>
+	<string id="%1412%" value="Чугун высокопрочный 35 ГОСТ 7293-85"/>
+	<string id="%1413%" value="Чугун высокопрочный 40 ГОСТ 7293-85"/>
+	<string id="%1414%" value="Чугун высокопрочный 45 ГОСТ 7293-85"/>
+	<string id="%1415%" value="Чугун высокопрочный 50 ГОСТ 7293-85"/>
+	<string id="%1416%" value="Чугун высокопрочный 60 ГОСТ 7293-85"/>
+	<string id="%1417%" value="Чугун высокопрочный 70 ГОСТ 7293-85"/>
+	<string id="%1418%" value="Чугун высокопрочный 80 ГОСТ 7293-85"/>
+	<string id="%1419%" value="Чугун высокопрочный 100 ГОСТ 7293-85"/>
+	<string id="%1420%" value="Чугун ковкий 30-6"/>
+	<string id="%1421%" value="Чугун ковкий 33-8"/>
+	<string id="%1422%" value="Чугун ковкий 35-10"/>
+	<string id="%1423%" value="Чугун ковкий 37-12"/>
+	<string id="%1424%" value="Чугун ковкий 45-7"/>
+	<string id="%1425%" value="Чугун ковкий 50-5"/>
+	<string id="%1426%" value="Чугун ковкий 55-4"/>
+	<string id="%1427%" value="Чугун ковкий 60-3"/>
+	<string id="%1428%" value="Чугун ковкий 65-3"/>
+	<string id="%1429%" value="Чугун ковкий 70-2"/>
+	<string id="%1430%" value="Чугун ковкий 80-1.5"/>
+	<string id="%1431%" value="Чугун ковкий 40"/>
+	<string id="%1432%" value="Холодная обработка"/>
+	<string id="%1433%" value="Отжиг или высокий отпуск"/>
+	<string id="%1434%" value="Рафинированный"/>
+	<string id="%1435%" value="Закаленный и отпущенный"/>
+	<string id="%1436%" value="Закалка и охлаждение в воде"/>
+	<string id="%1437%" value="Закалка и охлаждение в масле"/>
+	<string id="%1438%" value="Закаливание и подогрев"/>
+	<string id="%1439%" value="Поверхностное упрочнение, закалка и охлаждение в масле"/>
+	<string id="%1440%" value="Отжиг"/>
+	<string id="%1441%" value="Сталь конструкционная углеродистая"/>
+	<string id="%1442%" value="Сталь конструкционная углеродистая качественная"/>
+	<string id="%1443%" value="Сталь конструкционная углеродистая качественная, HRC59"/>
+	<string id="%1444%" value="Сталь конструкционная углеродистая качественная, HRC58"/>
+	<string id="%1445%" value="Сталь конструкционная углеродистая качественная, HRC35"/>
+	<string id="%1446%" value="Сталь конструкционная углеродистая качественная, HRC42"/>
+	<string id="%1447%" value="Сталь конструкционная углеродистая качественная, HRC48"/>
+	<string id="%1448%" value="Сталь конструкционная углеродистая качественная, HRC56"/>
+	<string id="%1449%" value="Сталь конструкционная углеродистая качественная, HRC45"/>
+	<string id="%1450%" value="Сталь конструкционная высокой обрабатываемости"/>
+	<string id="%1451%" value="Сталь конструкционная высокой обрабатываемости, размер менее 30 мм"/>
+	<string id="%1452%" value="Сталь конструкционная высокой обрабатываемости, размер более 30 мм"/>
+	<string id="%1453%" value="Сталь конструкционная легированная"/>
+	<string id="%1454%" value="Сталь конструкционная легированная, HRC59"/>
+	<string id="%1455%" value="Сталь конструкционная легированная, HRC39"/>
+	<string id="%1456%" value="Сталь конструкционная легированная, HRC48"/>
+	<string id="%1457%" value="Сталь конструкционная легированная, HRC50"/>
+	<string id="%1458%" value="Сталь конструкционная легированная, HRC43"/>
+	<string id="%1459%" value="Сталь конструкционная легированная, HRC40"/>
+	<string id="%1460%" value="Сталь конструкционная легированная, HRC30"/>
+	<string id="%1461%" value="Сталь конструкционная легированная, HRC46"/>
+	<string id="%1462%" value="Сталь жаропрочная"/>
+	<string id="%1463%" value="Сталь жаропрочная, метод закалки 1"/>
+	<string id="%1464%" value="Сталь жаропрочная, метод закалки 2"/>
+	<string id="%1465%" value="Сталь коррозионно-стойкая, жаропрочная и жароупорная, отпуск при 640-680 °C"/>
+	<string id="%1466%" value="Сталь коррозионно-стойкая, жаропрочная и жароупорная, отпуск при 540-580 °C"/>
+	<string id="%1467%" value="Сталь коррозионно-стойкая, жаропрочная и жароупорная, закалка при 1100-1170 °C, отпуск при 750-800 °C"/>
+	<string id="%1468%" value="Сталь коррозионно-стойкая, жаропрочная и жароупорная, закалка при 950-1050 °C, отпуск при 730-780 C"/>
+	<string id="%1469%" value="Сталь коррозионно-стойкая, жаропрочная и жароупорная"/>
+	<string id="%1470%" value="Прокатная листовая и широкополосная конструкционная качественная сталь. Толщина менее 100 мм"/>
+	<string id="%1471%" value="Прокатная листовая и широкополосная конструкционная качественная сталь. Толщина от 100 мм до 160 мм"/>
+	<string id="%1472%" value="Прокатная листовая и широкополосная конструкционная качественная сталь. Толщина менее 16 мм"/>
+	<string id="%1473%" value="Прокатная листовая и широкополосная конструкционная качественная сталь. Толщина от 16 мм до 40 мм"/>
+	<string id="%1474%" value="Прокатная листовая и широкополосная конструкционная качественная сталь. Толщина от 16 мм до 100 мм"/>
+	<string id="%1475%" value="Прокатная листовая и широкополосная конструкционная качественная сталь. Толщина от 40 мм до 100 мм"/>
+</Resources>

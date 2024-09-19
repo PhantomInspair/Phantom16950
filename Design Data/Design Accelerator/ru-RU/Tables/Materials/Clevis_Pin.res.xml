@@ -1,0 +1,15 @@
+<Resources>
+  <string id="%1%" value="Материал штифта с отверстием под шплинт"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Допустимое давление при изгибе"/>
+  <string id="%4%" value="пси"/>
+  <string id="%5%" value="Допустимое напряжение среза"/>
+  <string id="%7%" value="Углеродистая сталь 1211; 1212; 1213"/>
+  <string id="%8%" value="Высокоуглеродистая сталь 1070 - 1095"/>
+  <string id="%9%" value="Нержавеющая сталь 302"/>
+  <string id="%10%" value="Нержавеющая сталь 410 - 420"/>
+  <string id="%11%" value="Легированная сталь 6150H"/>
+  <string id="%12%" value="Материал"/>
+  <string id="%13%" value="||s||.BA|"/>
+  <string id="%14%" value="||t||.Al|"/>
+</Resources>

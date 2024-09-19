@@ -1,0 +1,7 @@
+<Resources>
+  <string id="%1%" value="Эксплуатационный коэффициент"/>
+  <string id="%2%" value="Статическая нагрузка"/>
+  <string id="%3%" value="Циклическая нагрузка"/>
+  <string id="%4%" value="Переменная нагрузка"/>
+  <string id="%5%" value="Коэффициент"/>
+</Resources>

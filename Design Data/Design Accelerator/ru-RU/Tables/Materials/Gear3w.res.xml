@@ -1,0 +1,16 @@
+<Resources>
+  <string id="%1%" value="Материалы для червяка"/>
+  <string id="%2%" value="Материал"/>
+  <string id="%3%" value="Обозначение материала"/>
+  <string id="%4%" value="Коэффициент материала червяка"/>
+  <string id="%5%" value="бр"/>
+  <string id="%6%" value="E"/>
+  <string id="%7%" value="Модуль упругости"/>
+  <string id="%8%" value="||m|"/>
+  <string id="%9%" value="Коэффициент Пуассона"/>
+  <string id="%10%" value="пси"/>
+  <string id="%11%" value="Закаленная сталь"/>
+  <string id="%12%" value="Cталь"/>
+  <string id="%13%" value="Чугун"/>
+  <string id="%14%" value="k|.mat|"/>
+</Resources>

@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="Пружина тарельчатая - DIN"/>
+  <string id="%2%" value="Имя"/>
+  <string id="%3%" value="Обозначение пружины"/>
+  <string id="%4%" value="D"/>
+  <string id="%5%" value="Наружный диаметр"/>
+  <string id="%6%" value="мм"/>
+  <string id="%7%" value="Внутренний диаметр"/>
+  <string id="%8%" value="d"/>
+  <string id="%9%" value="Толщина материала"/>
+  <string id="%10%" value="t"/>
+  <string id="%11%" value="Высота ненагруженной пружины"/>
+  <string id="%12%" value="H"/>
+</Resources>

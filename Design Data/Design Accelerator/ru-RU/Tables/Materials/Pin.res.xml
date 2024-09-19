@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="Материал штифта (ANSI)"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Допустимое напряжение среза"/>
+  <string id="%4%" value="пси"/>
+  <string id="%5%" value="Углеродистая сталь 1211; 1212; 1213"/>
+  <string id="%6%" value="Высокоуглеродистая сталь 1070 - 1095"/>
+  <string id="%7%" value="Нержавеющая сталь 302"/>
+  <string id="%8%" value="Нержавеющая сталь 410 - 420"/>
+  <string id="%9%" value="Легированная сталь 6150H"/>
+  <string id="%10%" value="Материал"/>
+  <string id="%11%" value="||t||.Al|"/>
+</Resources>

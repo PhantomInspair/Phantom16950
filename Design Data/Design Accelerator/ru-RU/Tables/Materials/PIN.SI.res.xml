@@ -1,0 +1,12 @@
+<Resources>
+  <string id="%1%" value="Материал штифта"/>
+  <string id="%2%" value="Обозначение материала"/>
+  <string id="%3%" value="Допустимое напряжение среза"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Сорт стали 37; 42; 4D"/>
+  <string id="%6%" value="Сталь 11 600; 12 040; 12 050; 8G"/>
+  <string id="%7%" value="Сталь 11 500; 5D"/>
+  <string id="%8%" value="Сталь 11 700"/>
+  <string id="%9%" value="Материал"/>
+  <string id="%10%" value="||t||.Al|"/>
+</Resources>
